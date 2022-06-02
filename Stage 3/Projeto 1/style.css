@@ -1,5 +1,11 @@
-body {
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
   font-family: 'Poppins', sans-serif;
+}
+
+body {
   background: #e5e5e5;
 }
 
@@ -37,14 +43,16 @@ header p {
   font-size: 16px;
   line-height: 26px;
   color: #42d3ff;
+
+  margin-top: 24px;
 }
 
 form {
   background: #fafafc;
   min-height: 300px;
-  margin-top: 40px;
-  border-radius: 8px;
   padding: 64px;
+  border-radius: 8px;
+  margin-top: 40px;
 }
 
 form fieldset {
@@ -59,6 +67,40 @@ form fieldset legend {
   color: #32264d;
 
   padding-bottom: 16px;
-  border-bottom: 2px solid #E6E6F0;
+  border-bottom: 2px solid #e6e6f0;
   width: 100%;
+}
+
+.input-wrapper {
+  display: flex;
+  flex-direction: column;
+}
+
+.input-wrapper label {
+  font-size: 14px;
+  line-height: 24px;
+  color: #4e4958;
+
+  margin-bottom: 8px;
+  margin-top: 24px;
+}
+
+.input-wrapper label span {
+  margin-left: 12px;
+
+  font-size: 12px;
+  line-height: 20px;
+  color: #c1bccc;
+}
+
+.input-wrapper input {
+  height: 56px;
+  background: #fafafc;
+  padding-inline: 24px;
+  border-radius: 8px;
+  border: 2px solid #e6e6f0;
+
+  font-size: 16px;
+  line-height: 26px;
+  color: #c1bccc;
 }
