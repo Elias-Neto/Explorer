@@ -63,13 +63,11 @@ header h1 {
   font-weight: 800;
 }
 
-
 /* ===== MAIN =================================== */
 main {
   display: grid;
   gap: 3.2rem;
 }
-
 
 /* ===== CARD =================================== */
 .card {
@@ -118,4 +116,53 @@ main {
   align-items: center;
   height: 3.8rem;
   width: fit-content;
+}
+
+/* ===== ANIMAÇÕES =================================== */
+@keyframes topdown {
+  0% {
+    opacity: 0;
+    transform: translateY(-60px);
+  }
+
+  100% {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@keyframes rightleft {
+  0% {
+    opacity: 0;
+    transform: translateX(60px);
+  }
+
+  100% {
+    opacity: 1;
+    transform: translateX(0);
+  }
+}
+
+@keyframes leftright {
+  0% {
+    opacity: 0;
+    transform: translateX(-60px);
+  }
+
+  100% {
+    opacity: 1;
+    transform: translateX(0);
+  }
+}
+
+header {
+  animation: topdown 700ms;
+}
+
+main .card:nth-child(odd) {
+  animation: rightleft 700ms 350ms backwards;
+}
+
+main .card:nth-child(even) {
+  animation: leftright 700ms 350ms backwards;
 }
