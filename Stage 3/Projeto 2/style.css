@@ -83,5 +83,27 @@ ul li {
   margin-bottom: 3.2rem;
 
   display: flex;
+  align-items: center;
   gap: 3.8rem;
+}
+
+@media (min-width: 700px) {
+  body {
+    padding-block: 9.5rem;
+  }
+
+  main {
+    max-width: 1020px;
+    display: flex;
+    gap: 11.5rem;
+  }
+
+  main > div {
+    max-width: 485px;
+  }
+
+  ul li {
+    gap: 5.4rem;
+    max-width: 420px;
+  }
 }
