@@ -90,6 +90,8 @@ main .card:nth-child(even) {
   border-radius: 6px;
 
   transition: all 200ms;
+
+  filter: brightness(.5) saturate(1.5);
 }
 
 .card img:hover {
