@@ -61,3 +61,20 @@ header h1 {
   line-height: 4.8rem;
   font-weight: 800;
 }
+
+
+/* ===== CARD =================================== */
+.card {
+  position: relative;
+}
+
+.card img{
+  height: 41.6rem;
+  object-fit: cover;
+}
+
+.card h2 {
+  position: absolute;
+  bottom: 5rem;
+  left: 3rem;
+}
