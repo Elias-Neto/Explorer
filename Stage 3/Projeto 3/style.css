@@ -1,0 +1,19 @@
+:root {
+  --hue:250;
+
+  --ff-heading: 'Epilogue', sans-serif;
+  
+  --fc-primary: hsl(var(--hue), 0%, 100%);
+  --fc-secundary: hsl(var(--hue), 50%, 80%);
+  --bg-primary: hsl(var(--hue), 22%, 20%);
+}
+
+body {
+  background-color: var(--bg-primary);
+  color: var(--fc-primary);
+}
+
+header p {
+  color: var(--fc-secundary);
+  text-transform: uppercase;
+}
