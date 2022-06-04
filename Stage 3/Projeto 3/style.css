@@ -10,8 +10,9 @@
 
   font-size: 62.5%;
   --fs-body: 1.6rem;
-  --fs-heading: 4rem;
-  --lh-heading: 4.8rem;
+  --fs-heading: clamp(4rem, 1rem + 5vw, 5.6rem);
+  --fs-heading-: clamp(3rem, 0.5rem + 3vw, 4rem);
+  --lh-heading: clamp(4.8rem, 1rem + 5vw, 6.4rem);
 
   --hue: 250;
   --fc-primary: hsl(var(--hue), 0%, 100%);
@@ -168,14 +169,9 @@ main .card:nth-child(even) {
 }
 
 /* ===== RESPONSIVIDADE =================================== */
-@media (min-width: 700px) {
-  :root {
-    --fs-heading: 5.6rem;
-    --lh-heading: 6.4rem;
-  }
-
+@media (min-width: 768px) {
   .page {
-    max-width: 117rem;
+    max-width: 117rem; 
     padding: 0 5rem 2rem;
   }
 
@@ -185,16 +181,6 @@ main .card:nth-child(even) {
 }
 
 @media (min-width: 950px) {
-  :root {
-    --fs-heading: 5.6rem;
-    --lh-heading: 6.4rem;
-  }
-
-  .page {
-    max-width: 117rem;
-    padding: 0 5rem 2rem;
-  }
-
   main {
     grid-template-areas:
       'A B B B'
