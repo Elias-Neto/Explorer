@@ -40,7 +40,7 @@ operacionais toda essa parte que não podemos tocar, intangíveis, é o que cham
 </p>
 <br>
 <p>
-  <b>|</b> &nbsp Mas o que acontece por debaixo dos panos❔
+  <b>|</b> &nbsp Mas o que acontece por debaixo dos panos❔ (logo a baixo, está um passo a passo do que acontece e uma explicação detalhada de cada passo.)
 </p>
 <br>
 <ol>
@@ -112,7 +112,7 @@ operacionais toda essa parte que não podemos tocar, intangíveis, é o que cham
       um protocolo cuja função, de forma simplificada, é garantir que a mensagem chegue corretamente ao destino.
     </p>
     <p>
-      <b>O protocolo IP</b> (Internet Protcol) é um procolo cuja função garantir a identificação dos
+      <b>O protocolo IP</b> (Internet Protcol) é um procolo cuja função é garantir a identificação dos
        computadores, como ele faz isso? atribuindo endereços para cada computador (é o famoso endereço
       IP, 168.77.34.21, por exemplo).
     </p>
@@ -126,8 +126,8 @@ operacionais toda essa parte que não podemos tocar, intangíveis, é o que cham
       e um endereço IP. 
     </p>
     <p>
-      Ou seja, antes do sue pedido pra acessar o site desejado chegue até o servidor (quem recebe o pedido)
-      ele vai primeiro para um servidor DNS que vai receber o nome do site que você digitou (domínio) e
+      Ou seja, antes do sue pedido para acessar o site desejado chegue até o computador (servidor) no qual o site está hospedado ,
+      ele vai primeiro para um servidor DNS, que vai receber o nome do site que você digitou (domínio) e
       vai te devolver o endereço IP de onde aquele site está localizado/hospedado na intenet.
     </p>
   </li> <br>
@@ -138,7 +138,7 @@ operacionais toda essa parte que não podemos tocar, intangíveis, é o que cham
       O que é um <b>Proxy</b>❔ É qualquer dispositivo no meio do caminho da caminho entre você (cliente)
       e o local onde está o site que você deseja acessar (servidor). Exemplos de Proxy: moldem, roteador,
       outros computadores, etc... Ou seja, a função de um Proxy é, simplismente, servir de ponte para
-      que a mensagem chege de um ponto a outro.
+      que a mensagem chegue de um ponto a outro.
     </p>
     <p>
       <b>Aliás ❕</b> Uma coisa importante de ressaltar, a mensagem ela não é enviada inteira de um lado para
