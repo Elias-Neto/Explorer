@@ -11,4 +11,6 @@
   💡 &nbsp “Se preocupe mais com a sua evolução do que com o que os outros vão pensar de você.”
 </div>
 
+<br>
+
 <a href="../../README.md">Voltar</a>
