@@ -9,8 +9,8 @@ computadores</i>.</p>
 <p><b>|</b> &nbsp Eu poderia parar por aí mas vamos nos aprofundar um pouco mais...</p>
 
 <p>O que é uma <b>rede</b>❔ Rede é um aglomerado de software e hardware 
-que permite a comunicação entre diversos dispositivos. Essa <b>comunicação</b>, 
-é basicamente, a transmissão/compartilhamento de dados e informações.</p>
+que permite a comunicação entre diversos dispositivos. Essa <b>comunicação</b> 
+é, basicamente, a transmissão/compartilhamento de dados e informações.</p>
 
 <p>OBS ❕ A palavra dados não foi tratada separada da palavra informações atoa, elas possuem significados
 diferentes. <b>Dados</b>, de maneira simplificada, são o estado bruto da informação, ou seja, não possuem contexto
