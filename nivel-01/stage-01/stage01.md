@@ -3,3 +3,6 @@
 <a href="./o-que-e-logica-de-programacao.md" style="text-decoration:none;">🧠 O que é lógica de programação? </a> <br>
 <a href="./internet-definicao-e-funcionamento.md" style="text-decoration:none;">🌐 O que é e como funciona a Internet? </a>
 
+<br>
+
+<a href="../../README.md">Voltar</a>
