@@ -1,7 +1,5 @@
 
-<h2 id="topico2"> 🧠 O que é lógica de programação? </h2>
- 
----
+<h1 id="topico2"> 🧠 O que é lógica de programação? </h1>
 
 <p>Lógica de programação é uma <b>maneira de pensar</b>.</p>
 
@@ -25,3 +23,5 @@
   <li>A programação imperativa, trabalha em cima de passo a passo, de como fazer.</li>
   <li>Já a programação declarativa, trabalha em cima de um conjunto de regras, do que fazer.</li>
 </ul> 
+
+<a href="./stage01.md">Voltar</a>

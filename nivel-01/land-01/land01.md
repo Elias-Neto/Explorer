@@ -10,3 +10,5 @@
 <div style="background-color: hsla(0, 0%, 80%, 0.1); padding: 15px;">
   💡 &nbsp “Se preocupe mais com a sua evolução do que com o que os outros vão pensar de você.”
 </div>
+
+<a href="../../README.md">Voltar</a>
