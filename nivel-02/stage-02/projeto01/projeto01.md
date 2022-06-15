@@ -4,7 +4,7 @@
 
 
 <h2 align="center">
-    <a href="https://elias-neto.github.io/Galeria-de-Imagens/"> Veja o Site</a>
+    <a href="https://elias-neto.github.io/Explorer/nivel-02/stage-02/projeto01/"> Veja o Site</a>
 </h2>
 
 
