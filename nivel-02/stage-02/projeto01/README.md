@@ -1,4 +1,4 @@
-<h1 style="text-align:center;">Móveis para você! 🪑</h1>
+<h1 align="center">Móveis para você! 🪑</h1>
 
 <img src="./demonstracao.png">
 
