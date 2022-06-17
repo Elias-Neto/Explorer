@@ -2,24 +2,21 @@
 
 <img src="./demonstracao.png">
 
-
-<h2 align="center">
-    <a href="https://elias-neto.github.io/Explorer/nivel-02/stage-02/projeto02/"> Veja o Site</a>
-</h2>
+<div align="center">
+    <a style="font-size: 18px" href="https://elias-neto.github.io/Explorer/nivel-02/stage-02/projeto02/"> Veja o Site</a>
+</div>
 
 
 <br>
 
-## 💻 Projeto
+<h2> 💻 Projeto </h2>
 
 Este projeto consiste em uma landing page bem simples, para um negócio de personal trainer, o _treine.me_.
 
 <br>
-
----
 <br>
 
-## 📥 Conhecimento adquirido
+<h2> 📥 Conhecimento adquirido </h2>
 
 * Trabalhar com tags semânticas;
 * Enteder os conceitos do Box Model;
@@ -33,11 +30,9 @@ Este projeto consiste em uma landing page bem simples, para um negócio de perso
 * Trabalhar com a função linear-gradient();
 
 <br>
-
----
 <br>
 
-## 🛠 Tecnologias usadas
+<h2> 🛠 Tecnologias usadas </h2>
 
 O projeto foi desenvolvido utilizando as seguintes tecnologias:
 
@@ -45,6 +40,7 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
 - [CSS](https://www.w3schools.com/css/default.asp)
 - [Figma]()
 
+<br>
 <br>
 
 <p align="center"> Desenvolvido com 💜 por Elias de Araújo Ferreira Neto 👋 <p>

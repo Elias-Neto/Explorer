@@ -3,23 +3,21 @@
 <img src="./demonstracao.png">
 
 
-<h2 align="center">
-    <a href="https://elias-neto.github.io/Explorer/nivel-02/stage-02/projeto01/"> Veja o Site</a>
-</h2>
+<div align="center">
+    <a style="font-size: 18px" href="https://elias-neto.github.io/Explorer/nivel-02/stage-02/projeto01/"> Veja o Site</a>
+</div>
 
 
 <br>
 
-## 💻 Projeto
+<h2> 💻 Projeto </h2>
 
 Este projeto consiste em uma landing page bem simples para uma loja de móveis customizados, _móveis para você_.
 
 <br>
-
----
 <br>
 
-## 📥 Conhecimento adquirido
+<h2> 📥 Conhecimento adquirido </h2>
 
 * O que é e pra que serve o HTML e o CSS;
 * Estrutura inicial do HTML;
@@ -34,11 +32,9 @@ Este projeto consiste em uma landing page bem simples para uma loja de móveis c
 * Posicionamento de elementos com CSS utilizando a propriedade position.
 
 <br>
-
----
 <br>
 
-## 🛠 Tecnologias usadas
+<h2> 🛠 Tecnologias usadas </h2>
 
 O projeto foi desenvolvido utilizando as seguintes tecnologias:
 
@@ -46,6 +42,7 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
 - [CSS](https://www.w3schools.com/css/default.asp)
 - [Figma]()
 
+<br>
 <br>
 
 <p align="center"> Desenvolvido com 💜 por Elias de Araújo Ferreira Neto 👋 <p>
