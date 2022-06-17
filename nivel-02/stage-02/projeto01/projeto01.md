@@ -12,7 +12,7 @@
 
 ## 💻 Projeto
 
-Este projeto consiste em um site simples para uma loja de móveis customizados, _móveis para você_.
+Este projeto consiste em uma landing page bem simples para uma loja de móveis customizados, _móveis para você_.
 
 <br>
 
@@ -21,16 +21,16 @@ Este projeto consiste em um site simples para uma loja de móveis customizados, 
 
 ## 📥 Conhecimento adquirido
 
-* O que é e pra que serve o HTML e o CSS.
-* Estrutura básica do HTML.
-* Estrutura básica do CSS.
-* Especificidade no CSS.
-* Interpretação de layout no Figma.
-* Trabalhei com tipos de imagens (.jpg, .png e .svg).
-* Apresentação e posição dos elementos na tela (tipos de display: inline, block e inline-block).
-* Trabalhei com diferentes formatos de cores (heaxdecimal, rgb, rgba, hsl, hsla).
-* Alinhamento de textos e elementos com CSS.
-* Entendi o conceito de Box-model.
+* O que é e pra que serve o HTML e o CSS;
+* Estrutura inicial do HTML;
+* Estrutura inicial do CSS;
+* Especificidade no CSS;
+* Utilização de fontes personalizadas;
+* Utilizar o Figma e interpretar layouts;
+* Trabalhar com tipos de imagens (.jpg, .png e .svg);
+* Trabalhar com as formas de apresentação e posicionamento dos elementos na tela (tipos de display: inline, block e inline-block);
+* Trabalhar com diferentes formatos de cores (heaxdecimal, rgb, rgba, hsl, hsla);
+* Alinhamento de textos e elementos com CSS;
 * Posicionamento de elementos com CSS utilizando a propriedade position.
 
 <br>
