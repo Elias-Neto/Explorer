@@ -39,6 +39,14 @@ nav ul {
   gap: 64px;
 }
 
+nav ul li {
+  cursor: pointer;
+}
+
+nav ul li:hover {
+  color: hsl(172, 100%, 37%);
+}
+
 /* ===== MAIN ============================ */
 main {
   margin-top: 100px;
