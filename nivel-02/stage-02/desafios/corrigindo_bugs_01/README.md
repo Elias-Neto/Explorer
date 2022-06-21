@@ -3,27 +3,17 @@
 
 
 <div align="center" style="margin-bottom: 30px">
-<<<<<<< HEAD
-    <img src="./demonstracao_antes.png" style="width:800px;"> <br>  
-    <a style="font-size: 18px" href="https://github.com/Elias-Neto/Explorer/tree/main/nivel-02/stage-02/desafios/corrigindo_bugs_01/antes"> Veja o código antes</a>
-=======
     <img src="./demonstracao_antes.png" style="width:500px;"> <br>  
     <a href="https://elias-neto.github.io/Explorer/nivel-02/stage-02/projeto01/"> Veja o site antes</a> <span> &nbsp &nbsp &nbsp </span>
     <a href="https://elias-neto.github.io/Explorer/nivel-02/stage-02/projeto01/"> Veja o código antes</a>
->>>>>>> 07e95edd1f0acb2ec55a1294d9fb8174bdae6e64
 </div>
 
 <br>
 
 <div align="center">
-<<<<<<< HEAD
-    <img src="./demonstracao_depois.png" style="width:800px;"> <br>   
-    <a style="font-size: 18px" href="https://github.com/Elias-Neto/Explorer/tree/main/nivel-02/stage-02/desafios/corrigindo_bugs_01/depois"> Veja o código depois</a>
-=======
     <img src="./demonstracao_depois.png" style="width:500px;"> <br>   
     <a  href="https://elias-neto.github.io/Explorer/nivel-02/stage-02/projeto01/"> Veja o site depois</a> <span> &nbsp &nbsp &nbsp </span>
     <a href="https://elias-neto.github.io/Explorer/nivel-02/stage-02/projeto01/"> Veja o código depois</a>
->>>>>>> 07e95edd1f0acb2ec55a1294d9fb8174bdae6e64
 </div>
 
 
