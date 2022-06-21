@@ -45,7 +45,7 @@ Ele se divide em 10 níveis e dentro de cada um temos módulos de Land (Soft ski
         <li>Traçando objetivos</li>
         <li>Planejando a trajetória</li>
       </ul>
-    <a href="./nivel-02/stage02" style="text-decoration:none;"><li>✅ <i>Stage 02 - Ambiente e HTML</i></li></a>
+    <a href="./nivel02/stage02" style="text-decoration:none;"><li>✅ <i>Stage 02 - Ambiente e HTML</i></li></a>
       <ul>
         <li>Configuração de IDE</li>
         <li>Ferramentas dev do navegador</li>
