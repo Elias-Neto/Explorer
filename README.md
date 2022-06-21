@@ -19,12 +19,12 @@ Ele se divide em 10 níveis e dentro de cada um temos módulos de Land (Soft ski
 <details>
   <summary>✅ <b>Nível 01</b></summary>
   <ul>
-    <a href="./nivel-01/land-01/land01.md" style="text-decoration:none;"><li>✅ <i>Land 01 - Início da Missão</i></li></a>
+    <a href="./nivel01/land-01" style="text-decoration:none;"><li>✅ <i>Land 01 - Início da Missão</i></li></a>
       <ul>
         <li>Mapa da jornada</li>
         <li>Como se relacionar de maneira eficiente</li>
       </ul>
-    <a href="./nivel-01/stage-01/stage01.md" style="text-decoration:none;"><li>✅ <i>Stage 01 - Fundamentos da Web</i></li></a>
+    <a href="./nivel01/stage01" style="text-decoration:none;"><li>✅ <i>Stage 01 - Fundamentos da Web</i></li></a>
       <ul>
         <li>Introdução à programação Web</li>
         <li>Fundamentos da Internet</li>
@@ -45,7 +45,7 @@ Ele se divide em 10 níveis e dentro de cada um temos módulos de Land (Soft ski
         <li>Traçando objetivos</li>
         <li>Planejando a trajetória</li>
       </ul>
-    <a href="./nivel-02/stage-02/stage01.md" style="text-decoration:none;"><li>✅ <i>Stage 02 - Ambiente e HTML</i></li></a>
+    <a href="./nivel-02/stage02" style="text-decoration:none;"><li>✅ <i>Stage 02 - Ambiente e HTML</i></li></a>
       <ul>
         <li>Configuração de IDE</li>
         <li>Ferramentas dev do navegador</li>
