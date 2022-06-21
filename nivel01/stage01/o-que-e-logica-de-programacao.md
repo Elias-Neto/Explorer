@@ -24,4 +24,11 @@
   <li>Já a programação declarativa, trabalha em cima de um conjunto de regras, do que fazer.</li>
 </ul> 
 
+<br>
+<br>
+
+<p align="center"> Desenvolvido com 💜 por Elias de Araújo Ferreira Neto 👋 <p>
+
+<br>
+
 <a href="./stage01.md">Voltar</a>

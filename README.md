@@ -45,15 +45,18 @@ Ele se divide em 10 níveis e dentro de cada um temos módulos de Land (Soft ski
         <li>Traçando objetivos</li>
         <li>Planejando a trajetória</li>
       </ul>
-    <li>🔄 <i>Stage 02 - Ambiente e HTML</i></li>
+    <a href="./nivel-02/stage-02/stage01.md" style="text-decoration:none;"><li>✅ <i>Stage 02 - Ambiente e HTML</i></li></a>
       <ul>
         <li>Configuração de IDE</li>
         <li>Ferramentas dev do navegador</li>
         <li>Fundamentos do HTML</li>
         <li>Tags & Atributos</li>
         <li>Semântica</li>
-        <li>Formulários</li>
-        <li>Mídias</li>
+        <li>Position</li>
+        <li>Fundamentos do CSS</li>
+        <li>Box Model</li>
+        <li>Flex Layout</li>
+        <li>Interpretação de layouts (Figma)</li>
       </ul>
   </ul>
 </details>
@@ -68,15 +71,12 @@ Ele se divide em 10 níveis e dentro de cada um temos módulos de Land (Soft ski
       </ul>
     <li>🔄 <i>Stage 03 - Design & CSS</i></li>
       <ul>
-        <li>Fundamentos do CSS</li>
-        <li>Box Model</li>
-        <li>Flex Layout</li>
         <li>Grid Layout</li>
-        <li>Position</li>
+        <li>Formulários</li>
+        <li>Mídias</li>
         <li>Responsividade</li>
         <li>Transformações</li>
         <li>Animações e transições</li>
-        <li>Interpretação de layouts (Figma)</li>
       </ul>
   </ul>
 </details>

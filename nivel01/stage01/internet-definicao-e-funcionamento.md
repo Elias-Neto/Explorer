@@ -191,4 +191,11 @@ operacionais toda essa parte que não podemos tocar, intangíveis, é o que cham
   </li>
 </ol>
 
+<br>
+<br>
+
+<p align="center"> Desenvolvido com 💜 por Elias de Araújo Ferreira Neto 👋 <p>
+
+<br>
+
 <a href="./stage01.md">Voltar</a>

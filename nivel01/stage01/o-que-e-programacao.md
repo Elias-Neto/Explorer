@@ -58,4 +58,11 @@ e lógicas.</p>
 <p> &#10069 <b>OBS</b>: Não dá para programar se não houver um <i>entendimento do problema</i>.
 É preciso entender o problema, para só depois, oferecer a solução.</p>
 
+<br>
+<br>
+
+<p align="center"> Desenvolvido com 💜 por Elias de Araújo Ferreira Neto 👋 <p>
+
+<br>
+
 <a href="./stage01.md">Voltar</a>
