@@ -19,7 +19,7 @@ Ele se divide em 10 níveis e dentro de cada um temos módulos de Land (Soft ski
 <details>
   <summary>✅ <b>Nível 01</b></summary>
   <ul>
-    <a href="./nivel01/land-01" style="text-decoration:none;"><li>✅ <i>Land 01 - Início da Missão</i></li></a>
+    <a href="./nivel01/land01" style="text-decoration:none;"><li>✅ <i>Land 01 - Início da Missão</i></li></a>
       <ul>
         <li>Mapa da jornada</li>
         <li>Como se relacionar de maneira eficiente</li>
