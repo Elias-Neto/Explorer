@@ -10,7 +10,7 @@
 <br>
 
 <div align="center">
-    <img src="./demonstracao_depois.png" style="width:500px;"> <br>   
+    <img src="./demonstracao_depois(2).png" style="width:500px;"> <br>   
     <a href="https://github.com/Elias-Neto/Explorer/tree/main/nivel-02/stage-02/desafios/corrigindo_bugs_01/depois"> Veja o código depois</a>
 </div>
 
