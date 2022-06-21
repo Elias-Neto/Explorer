@@ -3,13 +3,13 @@
 
 
 <div align="center" style="margin-bottom: 30px">
-    <img src="./demonstracao_antes.png">  
+    <img src="./demonstracao_antes.png" style="width:500px;"> <br>  
     <a style="font-size: 18px; margin-right: 50px;" href="https://elias-neto.github.io/Explorer/nivel-02/stage-02/projeto01/"> Veja o site antes</a>
     <a style="font-size: 18px" href="https://elias-neto.github.io/Explorer/nivel-02/stage-02/projeto01/"> Veja o código antes</a>
 </div>
 
 <div align="center">
-    <img src="./demonstracao_antes.png">  
+    <img src="./demonstracao_depois.png" style="width:500px;"> <br>   
     <a style="font-size: 18px; margin-right: 50px;" href="https://elias-neto.github.io/Explorer/nivel-02/stage-02/projeto01/"> Veja o site depois</a>
     <a style="font-size: 18px" href="https://elias-neto.github.io/Explorer/nivel-02/stage-02/projeto01/"> Veja o código depois</a>
 </div>
