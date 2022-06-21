@@ -4,14 +4,14 @@
 
 <div align="center" style="margin-bottom: 30px">
     <img src="./demonstracao_antes.png" style="width:500px;"> <br>  
-    <a href="https://github.com/Elias-Neto/Explorer/tree/main/nivel-02/stage-02/desafios/corrigindo_bugs_01/antes"> Veja o código antes</a>
+    <a href="https://github.com/Elias-Neto/Explorer/tree/main/nivel02/stage02/desafios/corrigindo_bugs_01/antes"> Veja o código antes</a>
 </div>
 
 <br>
 
 <div align="center">
     <img src="./demonstracao_depois.png" style="width:500px;"> <br>   
-    <a href="https://github.com/Elias-Neto/Explorer/tree/main/nivel-02/stage-02/desafios/corrigindo_bugs_01/depois"> Veja o código depois</a>
+    <a href="https://github.com/Elias-Neto/Explorer/tree/main/nivel02/stage02/desafios/corrigindo_bugs_01/depois"> Veja o código depois</a>
 </div>
 
 

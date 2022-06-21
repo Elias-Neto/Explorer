@@ -4,8 +4,8 @@
 
 <div align="center">
     <img src="./demonstracao.png" style="width:500px;"> <br>   
-    <a href="https://github.com/Elias-Neto/Explorer/tree/main/nivel-02/stage-02/desafios/semantica_e_acessibilidade/antes"> Veja o código antes</a> <span>&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp</span>
-    <a href="https://github.com/Elias-Neto/Explorer/tree/main/nivel-02/stage-02/desafios/semantica_e_acessibilidade/depois"> Veja o código depois</a>
+    <a href="https://github.com/Elias-Neto/Explorer/tree/main/nivel02/stage02/desafios/semantica_e_acessibilidade/antes"> Veja o código antes</a> <span>&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp</span>
+    <a href="https://github.com/Elias-Neto/Explorer/tree/main/nivel02/stage02/desafios/semantica_e_acessibilidade/depois"> Veja o código depois</a>
 </div>
 
 
