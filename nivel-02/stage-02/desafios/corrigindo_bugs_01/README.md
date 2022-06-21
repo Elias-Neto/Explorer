@@ -4,7 +4,6 @@
 
 <div align="center" style="margin-bottom: 30px">
     <img src="./demonstracao_antes.png" style="width:500px;"> <br>  
-    <a href="https://elias-neto.github.io/Explorer/nivel-02/stage-02/projeto01/"> Veja o site antes</a> <span> &nbsp &nbsp &nbsp </span>
     <a href="https://elias-neto.github.io/Explorer/nivel-02/stage-02/projeto01/"> Veja o código antes</a>
 </div>
 
@@ -12,7 +11,6 @@
 
 <div align="center">
     <img src="./demonstracao_depois.png" style="width:500px;"> <br>   
-    <a  href="https://elias-neto.github.io/Explorer/nivel-02/stage-02/projeto01/"> Veja o site depois</a> <span> &nbsp &nbsp &nbsp </span>
     <a href="https://elias-neto.github.io/Explorer/nivel-02/stage-02/projeto01/"> Veja o código depois</a>
 </div>
 
