@@ -4,7 +4,7 @@
 
 
 <div align="center">
-    <a style="font-size: 18px" href="https://elias-neto.github.io/Explorer/nivel-02/stage-02/projeto01/index.html"> Veja o Site</a>
+    <a style="font-size: 18px" href="https://elias-neto.github.io/Explorer/nivel02/stage02/projeto01"> Veja o Site</a>
 </div>
 
 
