@@ -26,10 +26,10 @@ Este desafio consiste em pegar uma página cheia de bugs e consertar tanto o HTM
 <h2> 📥 Conhecimento adquirido </h2>
 
 * Reorganizar uma estrutura HTML bagunçada;
-* Identificar estilizações desnecessárias no CSS;
 * Refatoração de código;
 * Interpretação de layouts no Figma;
 * Código Limpo.
+* Trabalhar com Flexbox.
 
 <br>
 <br>
