@@ -1,4 +1,4 @@
-<h1 align="center">Treine.me! 🏃‍♂️ 🏋️‍♂️</h1>
+<h1 align="center">Treine.me 🏃‍♂️ 🏋️‍♂️</h1>
 
 <img src="./demonstracao.png">
 
