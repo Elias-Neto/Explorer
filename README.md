@@ -9,6 +9,7 @@
 <br>
 
 ## 💻 Projeto
+
 O objetivo deste repositório é documentar minha trajetória durante o programa Explorer da Rocketseat.
 Ele se divide em 10 níveis e dentro de cada um temos módulos de Land (Soft skills) e Stage (Hard skills).
 
@@ -37,9 +38,9 @@ Ele se divide em 10 níveis e dentro de cada um temos módulos de Land (Soft ski
 </details>
 
 <details>
-  <summary>🔄 <b>Nível 02</b></summary>
+  <summary>✅ <b>Nível 02</b></summary>
   <ul>
-    <li>🔄 <i>Land 02 - Objetivos e planejamento</i></li>
+    <a href="./nivel02/land02" style="text-decoration:none;"><li>✅ <i>Land 02 - Objetivos e planejamento</i></li></a>
       <ul>
         <li>Definição de propósito</li>
         <li>Traçando objetivos</li>
@@ -52,12 +53,13 @@ Ele se divide em 10 níveis e dentro de cada um temos módulos de Land (Soft ski
         <li>Fundamentos do HTML</li>
         <li>Tags & Atributos</li>
         <li>Semântica</li>
-        <li>Position</li>
+        <li>Position Fixed</li>
         <li>Fundamentos do CSS</li>
         <li>Box Model</li>
         <li>Flex Layout</li>
         <li>Interpretação de layouts (Figma)</li>
       </ul>
+
   </ul>
 </details>
 
