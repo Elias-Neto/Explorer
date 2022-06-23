@@ -3,7 +3,7 @@
 <img src="./demonstracao.png">
 
 <div align="center">
-    <a style="font-size: 18px" href="https://elias-neto.github.io/Explorer/nivel02/stage02/desafios/recriando_layout"> Veja o Site</a>
+    <a style="font-size: 18px" href="https://elias-neto.github.io/Explorer/nivel02/stage02/desafios/recriando_layout" target="_blank"> Veja o Site</a>
 </div>
 
 
@@ -22,6 +22,7 @@ Neste desafio, eu recriei uma aplicação a partir de um layout do figma. Essa a
 * Fontes estilizadas;
 * Formato de cores (Hexadecimal e HSL);
 * Link que abre em outra aba (atributo target="_blank");
+* Efeito ao passar o mouse em cima (pseudo-classe :hover).
 * Fixar um elemento na tela;
 * Organização do código com comentários.
 

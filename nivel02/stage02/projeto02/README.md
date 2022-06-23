@@ -3,7 +3,7 @@
 <img src="./demonstracao.png">
 
 <div align="center">
-    <a style="font-size: 18px" href="https://elias-neto.github.io/Explorer/nivel02/stage02/projeto02/"> Veja o Site</a>
+    <a style="font-size: 18px" href="https://elias-neto.github.io/Explorer/nivel02/stage02/projeto02/" target="_blank"> Veja o Site</a>
 </div>
 
 
@@ -28,6 +28,7 @@ Este projeto consiste em uma landing page bem simples, para um negócio de perso
 * Entender a diferença entre margin e padding;
 * Estilização de botões;
 * Trabalhar com a função linear-gradient();
+* Trabalhar com a Pseudo-classe :hover.
 
 <br>
 <br>
