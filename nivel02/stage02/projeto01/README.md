@@ -29,7 +29,7 @@ Este projeto consiste em uma landing page bem simples para uma loja de móveis c
 * Trabalhar com as formas de apresentação e posicionamento dos elementos na tela (tipos de display: inline, block e inline-block);
 * Trabalhar com diferentes formatos de cores (heaxdecimal, rgb, rgba, hsl, hsla);
 * Alinhamento de textos e elementos com CSS;
-* Posicionamento de elementos com CSS utilizando a propriedade position.
+* Posicionamento de elementos com CSS utilizando a propriedade position fixed.
 
 <br>
 <br>
