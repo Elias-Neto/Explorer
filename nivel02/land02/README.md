@@ -1,4 +1,4 @@
-<h1>Land 02</h1>
+<h1>Land 02 - Objetivos e Planejamento</h1>
 <a href="./encontrando_proposito.md" style="text-decoration:none;">🎯 Encontrando Propósito  </a> <br>
 <a href="./fortalecendo_proposito.md" style="text-decoration:none;">⚡ Fortalecendo o propósito </a> <br>
 <a href="./objetivos_metas.md" style="text-decoration:none;">✅ Objetivos e Metas </a> <br>
