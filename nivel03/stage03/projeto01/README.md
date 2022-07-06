@@ -12,7 +12,7 @@
 
 <h2> 💻 Projeto </h2>
 
-Este projeto consiste em uma landing page com um formulário para a criação de eventos.
+Este projeto consiste em uma landing page com um **formulário** para a criação de eventos.
 
 <br>
 <br>
@@ -21,6 +21,7 @@ Este projeto consiste em uma landing page com um formulário para a criação de
 
 * Criação e funcionamento de formulários em HTML (form [atributos action e method], fieldset, legend, label, input, textarea, select, button);
 * Tipos de inputs (text, password, number, checkbox, date, time, email);
+* O que é o seletor universal "*" e qual sua importância;
 * Como funciona a propriedade CSS z-index;
 * Como funciona a propriedade box-sizing;
 * O que são e para que servem vendor prefixes (-moz, -webkit, -ms);
