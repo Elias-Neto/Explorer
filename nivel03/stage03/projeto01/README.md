@@ -28,7 +28,7 @@ Este projeto consiste em uma landing page com um **formulário** para a criaçã
 * Como aplicar SVG direto no CSS;
 * Como estilizar um campo select;
 * Pseudo Elements e Pseudo Classes no CSS - o que são, como usar e quais diferenças;
-* Como estilizar checkbox;
+* Como estilizar um capo checkbox;
 * Como validar campos e submeter formulários. 
 
 <br>
