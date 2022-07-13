@@ -64,21 +64,28 @@ Ele se divide em 10 níveis e dentro de cada um temos módulos de Land (Soft ski
 </details>
 
 <details>
-  <summary>🔄 <b>Nível 03</b></summary>
+  <summary>✅ <b>Nível 03</b></summary>
   <ul>
-    <li>🔄 <i>Land 03 - Organizando os estudos</i></li>
+    <a href="./nivel03/land03" style="text-decoration:none;"><li>✅ <i>Land 03 - Aprendizado, Estudos e Técnicas</i></li></a>
       <ul>
-        <li>Cronograma de estudos</li>
-        <li>Técnicas de aprendizado</li>
+        <li>Cronograma de estudos com Notion</li>
+        <li>Potencializando o aprendizado</li>
+        <li>Estudando de maneira eficiente</li>
+        <li>Técnica Pomodoro</li>
+        <li>Técnica Lozanov</li>
+        <li>Técnica Feymann</li>
+        <li>Técnica Active Recall</li>
       </ul>
-    <li>🔄 <i>Stage 03 - Design & CSS</i></li>
+    <a href="./nivel03/stage03" style="text-decoration:none;"><li>✅ <i>Stage 03 - Avançando no HTML e CSS</i></li></a>
       <ul>
-        <li>Grid Layout</li>
         <li>Formulários</li>
-        <li>Mídias</li>
+        <li>Tipos de Inputs</li>
         <li>Responsividade</li>
-        <li>Transformações</li>
-        <li>Animações e transições</li>
+        <li>Grid Layout</li>
+        <li>Pseudo-classes e Pseudo-elements</li>
+        <li>Variáveis no CSS</li>
+        <li>Transições e Transformações</li>
+        <li>Animações</li>
       </ul>
   </ul>
 </details>
