@@ -7,15 +7,13 @@
 </div>
 
 <br>
-
-## 💻 Projeto
+<h2>💻 Projeto</h2>
 
 O objetivo deste repositório é documentar minha trajetória durante o programa Explorer da Rocketseat.
 Ele se divide em 10 níveis e dentro de cada um temos módulos de Land (Soft skills) e Stage (Hard skills).
 
 <br>
-
-### Módulos do Programa
+<h3>Módulos do Programa</h3>
 
 <details>
   <summary>✅ <b>Nível 01</b></summary>
