@@ -9,11 +9,20 @@
 <br>
 <h2>💻 Projeto</h2>
 
-O objetivo deste repositório é documentar minha trajetória durante o programa Explorer da Rocketseat.
-Ele se divide em 10 níveis e dentro de cada um temos módulos de Land (Soft skills) e Stage (Hard skills).
+O objetivo deste repositório é documentar minha trajetória durante o programa Explorer da **Rocketseat** 💜.
+
+O Explorer é um programa da Rocketseat para **iniciantes**. Ele visa desenvolver habilidades técnicas e comportamentais específicas e importante para a jornada de formação de um dev.
+
+É um programa focado em **Desenvolvimento Web FullStack**.
+
+Ele é dividido por **níveis** (ao total 11) e dentro de cada um temos acesso a um módulo sobre **Softskills** e outro sobre **Hardskills**, além de desafios e quizzes. 
+
+A metodologia utilizada no explorer é a **Learn By Doing** (Aprender Fazendo), por esse motivo, farei diversos **projetos práticos** ao longo da jornada.
+
+O programa contém uma **comunidade** muito incrível na qual consigo desenvolver muito meu senso de cooperação, comunicação, empatia e entre outros.
 
 <br>
-<h3>Módulos do Programa</h3>
+<h3>📚 Módulos do Programa</h3>
 
 <details>
   <summary>✅ <b>Nível 01</b></summary>
@@ -226,6 +235,10 @@ Ele se divide em 10 níveis e dentro de cada um temos módulos de Land (Soft ski
         <li>Digital Ocean</li>
       </ul>
   </ul>
+</details>
+
+<details>
+  <summary>🔄 <b>Nível 11</b></summary>
 </details>
 
 <br>
