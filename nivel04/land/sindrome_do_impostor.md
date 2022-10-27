@@ -45,3 +45,7 @@
 - Todos, absolutamente TODOS, erram!
 - Cuidados médicos (mentais)
   - Psicológico / Psiquiátrico
+
+<br>
+
+<a href="../README.md">Voltar</a>

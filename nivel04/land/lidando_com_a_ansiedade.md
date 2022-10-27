@@ -37,3 +37,7 @@
   - Sono, alimento, exercícios físicos, alongamentos
 
 > 📚 Dica de livro: Como evitar preocupações e começar a viver - Dale Carnegie
+
+<br>
+
+<a href="../README.md">Voltar</a>
