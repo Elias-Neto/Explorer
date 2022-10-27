@@ -228,6 +228,6 @@ Ele se divide em 10 níveis e dentro de cada um temos módulos de Land (Soft ski
   </ul>
 </details>
 
-<br>
+<br><br>
 
 <p align="center"> Desenvolvido com 💜 por Elias de Araújo Ferreira Neto 👋 <p>
