@@ -49,15 +49,14 @@ Ele se divide em 10 níveis e dentro de cada um temos módulos de Land (Soft ski
         <li>Configuração de IDE</li>
         <li>Ferramentas dev do navegador</li>
         <li>Fundamentos do HTML</li>
-        <li>Tags & Atributos</li>
-        <li>Semântica</li>
-        <li>Position Fixed</li>
         <li>Fundamentos do CSS</li>
-        <li>Box Model</li>
-        <li>Flex Layout</li>
+        <li>Fontes & cores</li>
+        <li>Posicionando textos e elementos</li>
+        <li>Enviando projetos para o Github</li>
+        <li>Acessibilidade</li>
+        <li>Tags semânticas</li>
         <li>Interpretação de layouts (Figma)</li>
       </ul>
-
   </ul>
 </details>
 
@@ -66,32 +65,27 @@ Ele se divide em 10 níveis e dentro de cada um temos módulos de Land (Soft ski
   <ul>
     <a href="./nivel03/land03" style="text-decoration:none;"><li>✅ <i>Land 03 - Aprendizado, Estudos e Técnicas</i></li></a>
       <ul>
-        <li>Cronograma de estudos com Notion</li>
-        <li>Potencializando o aprendizado</li>
-        <li>Estudando de maneira eficiente</li>
-        <li>Técnica Pomodoro</li>
-        <li>Técnica Lozanov</li>
-        <li>Técnica Feymann</li>
-        <li>Técnica Active Recall</li>
+        <li>Cronograma de estudos</li>
+        <li>Técnicas de aprendizadoo</li>
       </ul>
     <a href="./nivel03/stage03" style="text-decoration:none;"><li>✅ <i>Stage 03 - Avançando no HTML e CSS</i></li></a>
       <ul>
-        <li>Formulários</li>
-        <li>Tipos de Inputs</li>
-        <li>Responsividade</li>
+        <li>Formulários, validações e customizações</li>
+        <li>Box Model</li>
+        <li>Flex Layout</li>
         <li>Grid Layout</li>
-        <li>Pseudo-classes e Pseudo-elements</li>
-        <li>Variáveis no CSS</li>
-        <li>Transições e Transformações</li>
-        <li>Animações</li>
+        <li>Position</li>
+        <li>Responsividade</li>
+        <li>Transformações</li>
+        <li>AnimaAnimações e transições</li>
       </ul>
   </ul>
 </details>
 
 <details>
-  <summary>🔄 <b>Nível 04</b></summary>
+  <summary>✅ <b>Nível 04</b></summary>
   <ul>
-    <li>🔄 <i>Land 04 - Mentalidade</i></li>
+    <li>✅ <i>Land 04 - Mentalidade</i></li>
       <ul>
         <li>Lidando com ansiedade</li>
         <li>Síndrome do impostor</li>
@@ -100,12 +94,16 @@ Ele se divide em 10 níveis e dentro de cada um temos módulos de Land (Soft ski
         <li>Overdose de informações</li>
         <li>O certo e o errado (resultados) (funcionar antes de ser bom)</li>
       </ul>
-    <li>🔄 <i>Stage 04 - Lógica e algoritmos</i></li>
+    <li>✅ <i>Stage 04 - Lógica e algoritmos</i></li>
       <ul>
         <li>Lógica de programação</li>
         <li>Entendendo problemas</li>
         <li>Algoritmos</li>
         <li>Paradigmas de programação</li>
+        <li>Variáveis</li>
+        <li>Funções</li>
+        <li>Manipulação de dados</li>
+        <li>Expressões e operadores</li>
       </ul>
   </ul>
 </details>
@@ -113,27 +111,17 @@ Ele se divide em 10 níveis e dentro de cada um temos módulos de Land (Soft ski
 <details>
   <summary>🔄 <b>Nível 05</b></summary>
   <ul>
-    <li>🔄 <i>Land 05 - Marca Pessoal</i></li>
+    <li>🔄 <i>Stage 05 - Avançando no JavaScript</i></li>
       <ul>
-        <li>Criação de LinkedIn</li>
-        <li>Criação de Github</li>
-        <li>Documentando progresso (Github e LinkedIn)</li>
-      </ul>
-    <li>🔄 <i>Stage 05 - JavaScript</i></li>
-      <ul>
-        <li>Fundamentos do JavaScript</li>
-        <li>Estrutura de dados</li>
-        <li>Funções</li>
-        <li>Controles de fluxo</li>
-        <li>Estruturas de repetição</li>
-        <li>Expressões e operadores</li>
-        <li>JavaScript assíncrono</li>
-        <li>Tentativa de erros</li>
-        <li>Syntax Sugars</li>
         <li>ES Modules</li>
-        <li>DOM</li>
+        <li>Conceitos de Clean Code</li>
+        <li>Funções callbacks</li>
+        <li>Recursividade</li>
+        <li>Injeção de dependências</li>
+        <li>Manipulação da DOMs</li>
         <li>Web APIs</li>
         <li>Manipulação de vetores</li>
+        <li>Refatoração</li>
       </ul>
   </ul>
 </details>
@@ -141,14 +129,36 @@ Ele se divide em 10 níveis e dentro de cada um temos módulos de Land (Soft ski
 <details>
   <summary>🔄 <b>Nível 06</b></summary>
   <ul>
-    <li>🔄 <i>Land 06 - Encontrando soluções</i></li>
+    <li>🔄 <i>Land 06 - Marca Pessoal</i></li>
+      <ul>
+        <li>Criação de LinkedIn</li>
+        <li>Criação de Github</li>
+        <li>Documentando progresso (Github e LinkedIn)</li>
+      </ul>
+    <li>🔄 <i>Stage 06 - JavaScript antes do framework</i></li>
+      <ul>
+        <li>POO (Programação Orientada a Objetos)</li>
+        <li>Conceitos de SPA</li>
+        <li>Assincronismo</li>
+        <li>Promisses</li>
+        <li>PolimorfismoA</li>
+        <li>Imutabilidade</li>
+        <li>Consumo de APIs externas</li>
+      </ul>
+  </ul>
+</details>
+
+<details>
+  <summary>🔄 <b>Nível 07</b></summary>
+  <ul>
+    <li>🔄 <i>Land 7 - Encontrando soluções</i></li>
       <ul>
         <li>Fórum</li>
         <li>Como pesquisar?</li>
         <li>Como identificar erros?</li>
-        <li>Fontes de pesquisas</li>
+        <li>Fontes de pesquisa</li>
       </ul>
-    <li>🔄 <i>Stage 06 - Git & GitHub</i></li>
+    <li>🔄 <i>Stage 07 - Git & GitHub</i></li>
       <ul>
         <li>Controle de versão</li>
         <li>Fundamentos do Git & GitHub</li>
@@ -157,40 +167,23 @@ Ele se divide em 10 níveis e dentro de cada um temos módulos de Land (Soft ski
 </details>
 
 <details>
-  <summary>🔄 <b>Nível 07</b></summary>
+  <summary>🔄 <b>Nível 08</b></summary>
   <ul>
-    <li>🔄 <i>Land 7 - Inglês</i></li>
+    <li>🔄 <i>Land 8 - Inglês</i></li>
       <ul>
         <li>Perfil LinkedIn em inglês</li>
         <li>README em inglês</li>
         <li>Código em inglês</li>
       </ul>
-    <li>🔄 <i>Stage 07 - Back-end</i></li>
+    <li>🔄 <i>Stage 08 - Back-End</i></li>
       <ul>
         <li>Fundamentos do back-end</li>
         <li>Node.js</li>
-        <li>NPM (Gerencuadir de pacotes)</li>
-        <li>SQL</li>
-      </ul>
-  </ul>
-</details>
-
-<details>
-  <summary>🔄 <b>Nível 08</b></summary>
-  <ul>
-    <li>🔄 <i>Land 8 - Projetos pessoais</i></li>
-      <ul>
-        <li>Inspiração de ideias</li>
-        <li>Resolução de problemas</li>
-        <li>Projetos simples (quere desenvolver o facebook)</li>
-      </ul>
-    <li>🔄 <i>Stage 08 - Front-End</i></li>
-      <ul>
-        <li>Tipos de aplicações (SSR, SPA)</li>
-        <li>Bibliotecas e frameworks</li>
-        <li>Transpilers Bundlers</li>
-        <li>Pré-processadores CSS</li>
-        <li>React</li>
+        <li>NPM (Gerenciador de pacotes)</li>
+        <li>Insomnia</li>
+        <li>Knex.js</li>
+        <li>Express</li>
+        <li>Banco de dados (SQL, SQLite)Knex.js</li>
       </ul>
   </ul>
 </details>
@@ -198,21 +191,21 @@ Ele se divide em 10 níveis e dentro de cada um temos módulos de Land (Soft ski
 <details>
   <summary>🔄 <b>Nível 09</b></summary>
   <ul>
-    <li>🔄 <i>Land 9 - Emprego</i></li>
+    <li>🔄 <i>Land 9 - Projetos Pessoais</i></li>
       <ul>
-        <li>Aplicando para a primeira vaga</li>
-        <li>Encontrando oportunidades na plataforma</li>
-        <li>Postando projetos pessoais na plataforma</li>
-        <li>Como se portar em entrevistas</li>
-        <li>Como se preparar para testes técnicos</li>
+        <li>Inspiração de ideias</li>
+        <li>Resolução de problemas</li>
+        <li>MVP</li>
+        <li>Design Thinking</li>
       </ul>
-    <li>🔄 <i>Stage 09 - API RESETful</i></li>
+    <li>🔄 <i>Stage 09 - Front-end</i></li>
       <ul>
-        <li>Consumo de API</li>
-        <li>Integração front-end e back-end</li>
-        <li>JSON</li>
-        <li>Autenticação</li>
-        <li>Testes</li>
+        <li>Bibliotecas e frameworks</li>
+        <li>React</li>
+        <li>Transpilers & Bundlers</li>
+        <li>Vite</li>
+        <li>CSS in JS (Styled Components)</li>
+        <li>React Router</li>
       </ul>
   </ul>
 </details>
@@ -220,10 +213,36 @@ Ele se divide em 10 níveis e dentro de cada um temos módulos de Land (Soft ski
 <details>
   <summary>🔄 <b>Nível 10</b></summary>
   <ul>
-    <li>🔄 <i>Stage 10 - Deploy de projetos</i></li>
+    <li>🔄 <i>Stage 10 - Emprego</i></li>
       <ul>
-        <li>CI/CD</li>
-        <li>Digital Ocean</li>
+        <li>Júnior, Pleno e Sênior</li>
+        <li>Aplicando para a primeira vaga</li>
+        <li>Como se portar em entrevistas</li>
+        <li>Encontrando oportunidades</li>
+        <li>Hack de entrevistas</li>
+        <li>Dicas para testes técnicos</li>
+      </ul>
+    <li>🔄 <i>Stage 10 - API RESTful</i></li>
+      <ul>
+        <li>Integração front-end e back-end</li>
+        <li>Consumo de API</li>
+        <li>Autenticação</li>
+        <li>Validações</li>
+        <li>Middlewares</li>
+        <li>Upload de imagens</li>
+      </ul>
+  </ul>
+</details>
+
+<details>
+  <summary>🔄 <b>Nível 11</b></summary>
+  <ul>
+    <li>🔄 <i>Stage 11 - Deploy e Testes automatizados</i></li>
+      <ul>
+        <li>PM2</li>
+        <li>Heroku</li>
+        <li>Netlify</li>
+        <li>Jest</li>
       </ul>
   </ul>
 </details>
