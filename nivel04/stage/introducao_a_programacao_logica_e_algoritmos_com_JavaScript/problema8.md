@@ -52,3 +52,7 @@ console.log("Lista de idades: " + patientsAges)
 console.log("Lista de pesos: " + patientsWeight)
 console.log("Lista de altura: " + patientsHeight)
 ```
+
+<br>
+
+<a href="../README.md">Voltar</a>

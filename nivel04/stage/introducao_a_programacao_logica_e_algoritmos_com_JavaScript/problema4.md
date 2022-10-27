@@ -32,3 +32,7 @@ if (avarage >= 6) {
   )
 }
 ```
+
+<br>
+
+<a href="../README.md">Voltar</a>

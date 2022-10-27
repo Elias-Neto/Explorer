@@ -13,3 +13,7 @@ let result = Number(firstNumber) + Number(secondNumber)
 
 alert("Resultado final: " + result)
 ```
+
+<br>
+
+<a href="../README.md">Voltar</a>

@@ -74,3 +74,7 @@ console.log({
 ```js
 console.log(["Uva", "Pera", "Maçã"])
 ```
+
+<br>
+
+<a href="../README.md">Voltar</a>

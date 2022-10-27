@@ -44,3 +44,7 @@ for (const patient of patients) {
   alert(IMCmessage)
 }
 ```
+
+<br>
+
+<a href="../README.md">Voltar</a>

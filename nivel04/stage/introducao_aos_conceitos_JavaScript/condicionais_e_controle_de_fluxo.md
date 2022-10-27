@@ -74,3 +74,7 @@ try {
   console.log(erro)
 }
 ```
+
+<br>
+
+<a href="../README.md">Voltar</a>

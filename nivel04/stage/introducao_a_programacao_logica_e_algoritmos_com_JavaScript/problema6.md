@@ -26,3 +26,7 @@ alert(
   `Parabéns! O número que eu pensei foi ${randomNumber} e você advinhou em ${xAttempts} tentativa.`
 )
 ```
+
+<br>
+
+<a href="../README.md">Voltar</a>

@@ -7,3 +7,7 @@ let nome = prompt("Qual o seu nome?")
 
 alert("Olá, " + nome + "!")
 ```
+
+<br>
+
+<a href="../README.md">Voltar</a>

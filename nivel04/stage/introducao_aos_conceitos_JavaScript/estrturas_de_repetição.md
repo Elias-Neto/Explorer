@@ -74,3 +74,7 @@ for (let propriety in person) {
   console.log(person[propriety])
 }
 ```
+
+<br>
+
+<a href="../README.md">Voltar</a>

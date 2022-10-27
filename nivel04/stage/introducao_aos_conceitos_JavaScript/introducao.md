@@ -25,3 +25,7 @@
 ```js
 console.log("Hello World!")
 ```
+
+<br>
+
+<a href="../README.md">Voltar</a>

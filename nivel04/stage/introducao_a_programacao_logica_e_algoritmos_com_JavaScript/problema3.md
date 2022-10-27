@@ -25,3 +25,7 @@ alert(
   "RESTO DA DIVISÃO: " + firstNumber + " % " + secondNumber + " = " + restDiv
 )
 ```
+
+<br>
+
+<a href="../README.md">Voltar</a>

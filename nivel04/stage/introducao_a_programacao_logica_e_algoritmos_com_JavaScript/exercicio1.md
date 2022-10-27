@@ -40,3 +40,7 @@ alert(`A divisão dos dois números é ${(numberOne / numberTwo).toFixed(2)}`)
 alert(`O resto da divisão dos dois números é ${numberOne % numberTwo}`)
 alert(`Os dois números são ${equality}`)
 ```
+
+<br>
+
+<a href="../README.md">Voltar</a>

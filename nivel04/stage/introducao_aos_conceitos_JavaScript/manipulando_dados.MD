@@ -207,3 +207,7 @@ console.log(index)
 techs.splice(index, 1)
 console.log(techs)
 ```
+
+<br>
+
+<a href="../README.md">Voltar</a>

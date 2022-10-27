@@ -85,7 +85,7 @@ Ele se divide em 10 níveis e dentro de cada um temos módulos de Land (Soft ski
 <details>
   <summary>✅ <b>Nível 04</b></summary>
   <ul>
-    <li>✅ <i>Land 04 - Mentalidade</i></li>
+    <a href="./nivel04/land" style="text-decoration:none;"><li>✅ <i>Land 04 - Mentalidade</i></li></a>
       <ul>
         <li>Lidando com ansiedade</li>
         <li>Síndrome do impostor</li>
@@ -94,7 +94,7 @@ Ele se divide em 10 níveis e dentro de cada um temos módulos de Land (Soft ski
         <li>Overdose de informações</li>
         <li>O certo e o errado (resultados) (funcionar antes de ser bom)</li>
       </ul>
-    <li>✅ <i>Stage 04 - Lógica e algoritmos</i></li>
+    <a href="./nivel04/stage" style="text-decoration:none;"><li>✅ <i>Stage 04 - Lógica e algoritmos</i></li></a>
       <ul>
         <li>Lógica de programação</li>
         <li>Entendendo problemas</li>
