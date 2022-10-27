@@ -101,9 +101,9 @@ let isSubscribed = true
 
 4.  A variável student abaixo é de que tipo de dado?
 
-4.1 Atribua os mesmos valores das variáveis do exercício 3 só que agora em propriedades de student.
+- 4.1 Atribua os mesmos valores das variáveis do exercício 3 só que agora em propriedades de student.
 
-4.2 Mostre no console a seguinte mensagem: (name) de idade (age) pesa (weight) kg.
+- 4.2 Mostre no console a seguinte mensagem: (name) de idade (age) pesa (weight) kg.
 
 ```js
 let student = {

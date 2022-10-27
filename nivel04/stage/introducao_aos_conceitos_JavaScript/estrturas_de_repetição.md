@@ -64,12 +64,13 @@ for (let name of names) {
 // percorre um objeto e coloca o nome cada propriedade (um por loop) dentro de uma variavel
 
 let person = {
-  name: 'elias',
+  name: "elias",
   age: 30,
-  weight: 70.5
+  weight: 70.5,
 }
 
-for(let propriety in person) {
+for (let propriety in person) {
   console.log(propriety)
   console.log(person[propriety])
+}
 ```

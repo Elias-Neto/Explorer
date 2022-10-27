@@ -1,4 +1,4 @@
-## Tipos de dados
+# Tipos de dados
 
 - Gramática
 
@@ -22,7 +22,7 @@
   - Structural (Object [Array, Date...], Function )
   - Structural Primitive (null)
 
-### Strings
+## Strings
 
 - Cadeia de caracteres
 - "" // aspas duplas
@@ -35,7 +35,7 @@ console.log("Hello World!")
 console.log(`Hello World!`)
 ```
 
-### Number
+## Number
 
 - Números
 - 33 // inteiros
@@ -43,16 +43,16 @@ console.log(`Hello World!`)
 - NaN // Not a Number
 - Infinity // Inifinito
 
-### Boolean
+## Boolean
 
 - somente 2 valores: true (verdadeiro) ou false (falso).
 
-### Undefined x Null
+## Undefined x Null
 
 - undefined // indefinido
 - null // nulo | objeto que não possui nada dentro | diferente de indefinido
 
-### Object
+## Object
 
 - É um tipo de dado estrutural, ou seja, baseado em uma estrutura.
 - Propriedades / Atributos
@@ -66,7 +66,7 @@ console.log({
 })
 ```
 
-### Array
+## Array
 
 - Funciona como uma 'lista'.
 - Agrupamento de dados
