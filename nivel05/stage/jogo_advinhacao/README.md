@@ -16,9 +16,6 @@ Joguinho simples, o usuário deve advinhar um número entre 0 e 10.
 - Mostra as tentativas do usuário até acertar.
 - Permite o usuário jogar novamente só apertando enter.
 
-<br>
-<br>
-
 ## 📥 Conhecimento adquirido
 
 - Manipulação da DOM
@@ -26,9 +23,6 @@ Joguinho simples, o usuário deve advinhar um número entre 0 e 10.
 - Estrutura Condicional
 - Função Callback
 - `Math.round()` e `Math.random()`
-
-<br>
-<br>
 
 ## 🛠 Tecnologias usadas
 

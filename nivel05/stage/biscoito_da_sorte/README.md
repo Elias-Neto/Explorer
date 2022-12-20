@@ -12,9 +12,6 @@
 
 O usuário poderá descobrir sua sorte abrindo um biscoito da sorte.
 
-<br>
-<br>
-
 ## 📥 Conhecimento adquirido
 
 - Animações e Transisitons CSS
@@ -23,9 +20,6 @@ O usuário poderá descobrir sua sorte abrindo um biscoito da sorte.
 - Eventos
 - Arrays
 - `Math.floor()` e `Math.round()`
-
-<br>
-<br>
 
 ## 🛠 Tecnologias usadas
 

@@ -16,9 +16,6 @@ Temporizador para ajudar no foco.
 - Pode dar play, pause e resetar o timer.
 - Pode ativar ou não um som de fundo.
 
-<br>
-<br>
-
 ## 📥 Conhecimento adquirido
 
 - Manipulação da DOM
@@ -29,9 +26,6 @@ Temporizador para ajudar no foco.
 - Injeção de Dependências
 - Clean Code
 - Refatoração de Código
-
-<br>
-<br>
 
 ## 🛠 Tecnologias usadas
 
