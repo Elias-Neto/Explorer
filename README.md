@@ -22,6 +22,8 @@ O explorer é um programa da Rocketseat focado no **Desenvolvimento Web Full Sta
 
 > Introdução à programação Web - Funcamentos da Internet - Protocolos - Navegadores - Cliente e Servidor - Diferença entre front-end & back-end
 
+<br>
+
 ## 📌 Nível 02
 
 - ✅ [Land - Objetivos e planejamento](./nivel02/land02/)
@@ -31,6 +33,8 @@ O explorer é um programa da Rocketseat focado no **Desenvolvimento Web Full Sta
 - ✅ [Stage 02 - Introdução ao HTML e CSS](./nivel02/stage02/)
 
 > Configuração de IDE - Ferramentas dev do navegador -Fundamentos do HTML - Fundamentos do CSS -Fontes & cores - Posicionando textos e elementos - Enviando projetos para o Github - Acessibilidade - Tags semânticas - Interpretação de layouts (Figma)
+
+<br>
 
 ## 📌 Nível 03
 
@@ -42,6 +46,8 @@ O explorer é um programa da Rocketseat focado no **Desenvolvimento Web Full Sta
 
 > Formulários, validações e customizações - Box Model - Flex Layout - Grid Layout - Position - Responsividade - Transformações - Animações e transições
 
+<br>
+
 ## 📌 Nível 04
 
 - ✅ [Land - Mentalidade](./nivel04/land/)
@@ -52,11 +58,15 @@ O explorer é um programa da Rocketseat focado no **Desenvolvimento Web Full Sta
 
 > Lógica de programação - Entendendo problemas - Algoritmos - Paradigmas de programação - Variáveis - Funções - Manipulação de dados - Expressões e operadores
 
+<br>
+
 ## 📌 Nível 05
 
 - ✅ [Stage - Avançando no JavaScript](./nivel05/stage/)
 
 > ES Modules - Princípios de Clean Code - Funções callbacks - Recursividade - padrão Factory - Injeção de dependências - Manipulação da DOM - Refatoração de código
+
+<br>
 
 ## 📌 Nível 06
 
@@ -68,6 +78,8 @@ O explorer é um programa da Rocketseat focado no **Desenvolvimento Web Full Sta
 
 > POO (Programação Orientada a Objetos) - Conceitos de SPA - Assincronismo - Promisses - Polimorfismo - Imutabilidade - Consumo de APIs externas
 
+<br>
+
 ## 📌 Nível 07
 
 - Land - Encontrando soluções
@@ -77,6 +89,8 @@ O explorer é um programa da Rocketseat focado no **Desenvolvimento Web Full Sta
 - Stage - Git & GitHub
 
 > Controle de versão - Fundamentos do Git & GitHub
+
+<br>
 
 ## 📌 Nível 08
 
@@ -88,6 +102,8 @@ O explorer é um programa da Rocketseat focado no **Desenvolvimento Web Full Sta
 
 > Fundamentos do back-end - Node.js - NPM (Gerenciador de pacotes) - Insomnia - Knex.js - Express - Banco de dados (SQL, SQLite)
 
+<br>
+
 ## 📌 Nível 09
 
 - Land - Projetos pessoais
@@ -98,6 +114,8 @@ O explorer é um programa da Rocketseat focado no **Desenvolvimento Web Full Sta
 
 > Bibliotecas e frameworks - React - Transpilers & Bundlers - Vite - CSS in JS (Styled Components) - React Router
 
+<br>
+
 ## 📌 Nível 10
 
 - Land - Emprego
@@ -107,6 +125,8 @@ O explorer é um programa da Rocketseat focado no **Desenvolvimento Web Full Sta
 - Stage 10 - API RESTful
 
 > Integração front-end e back-end - Consumo de API - Autenticação - Validações - Middlewares - Upload de imagens
+
+<br>
 
 ## 📌 Nível 11
 

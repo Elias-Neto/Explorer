@@ -15,9 +15,6 @@ Site que calculao IMC do usuário.
 - Verifica e alerta se os dados são válidos.
 - Apresneta o resultado em um Modal Popup
 
-<br>
-<br>
-
 ## 📥 Conhecimento adquirido
 
 - Modal Popup
@@ -27,18 +24,12 @@ Site que calculao IMC do usuário.
 - Manipulação da DOM
 - Eventos
 
-<br>
-<br>
-
 ## 🛠 Tecnologias usadas
 
 - [HTML](https://www.w3schools.com/html/)
 - [CSS](https://www.w3schools.com/css/default.asp)
 - [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 - [Figma](https://www.figma.com/design/)
-
-<br>
-<br>
 
 <p align="center"> Desenvolvido com ❤ por Elias de Araújo Ferreira Neto 👋 <p>
 
