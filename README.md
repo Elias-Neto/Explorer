@@ -54,7 +54,7 @@ O explorer é um programa da Rocketseat focado no **Desenvolvimento Web Full Sta
 
 ## 📌 Nível 05
 
-- ✅ [Stage - Avançando no JavaScript](./)
+- ✅ [Stage - Avançando no JavaScript](./nivel05/stage/)
 
 > ES Modules - Princípios de Clean Code - Funções callbacks - Recursividade - padrão Factory - Injeção de dependências - Manipulação da DOM - Refatoração de código
 

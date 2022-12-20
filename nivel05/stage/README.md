@@ -1,7 +1,7 @@
 # Stage 05 - Avançando no JavaScript
 
-- [🔮 Jogo da Advinhação](./)
-- [🥠 Biscoito da Sorte](./)
-- [🔢 IMC](./)
-- [⏲️ Focus Timer](./)
-- [💪⏲️ Super Focus Timer](./)
+- [🔮 Jogo da Advinhação](./jogo_advinhacao/)
+- [🥠 Biscoito da Sorte](./biscoito_da_sorte/)
+- [🔢 IMC](./imc/)
+- [⏲️ Focus Timer](./focusTimer/)
+- [💪⏲️ Super Focus Timer](./focusTimerTunado/)

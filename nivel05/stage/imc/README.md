@@ -3,7 +3,7 @@
 <img src="./demonstracao.gif">
 
 <div align="center">
-    <a style="font-size: 18px" href="https://elias-neto.github.io/Explorer/nivel05/stage05/imc" target="_blank"> Veja o Site</a>
+    <a style="font-size: 18px" href="https://elias-neto.github.io/Explorer/nivel/stage05/imc" target="_blank"> Veja o Site</a>
 </div>
 
 <br>
