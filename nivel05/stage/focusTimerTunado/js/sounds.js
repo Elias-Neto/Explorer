@@ -8,12 +8,12 @@ export default function ({
   coffeShopInputVolume,
   fireplaceInputVolume,
 }) {
-  const buttonPressed = new Audio("../sounds/buttonPressed.wav")
-  const kitchenTimer = new Audio("../sounds/kitchenTimer.mp3")
-  const forestBg = new Audio("../sounds/forest.wav")
-  const rainBg = new Audio("../sounds/rain.wav")
-  const coffeShopBg = new Audio("../sounds/coffeShop.wav")
-  const fireplaceBg = new Audio("../sounds/fireplace.wav")
+  const buttonPressed = new Audio("./sounds/buttonPressed.wav")
+  const kitchenTimer = new Audio("./sounds/kitchenTimer.mp3")
+  const forestBg = new Audio("./sounds/forest.wav")
+  const rainBg = new Audio("./sounds/rain.wav")
+  const coffeShopBg = new Audio("./sounds/coffeShop.wav")
+  const fireplaceBg = new Audio("./sounds/fireplace.wav")
 
   forestBg.loop = true
   rainBg.loop = true
