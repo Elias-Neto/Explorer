@@ -1,4 +1,4 @@
-<h1 align="center">🥠 Biscoito da Sorte</h1>
+<h1 align="center">📍 Flutuar.com</h1>
 
 <img src="./demonstracao.png">
 
