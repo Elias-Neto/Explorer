@@ -26,8 +26,8 @@ import {
   rainInputVolume,
   coffeShopInputVolume,
   fireplaceInputVolume,
-  buttonSoundOn,
-  buttonSoundOff,
+  soundButtonOn,
+  soundButtonOff,
 } from "./elements.js"
 
 const controls = Controls({
@@ -83,6 +83,6 @@ Events({
   rainInputVolume,
   coffeShopInputVolume,
   fireplaceInputVolume,
-  buttonSoundOff,
-  buttonSoundOn,
+  soundButtonOn,
+  soundButtonOff,
 })

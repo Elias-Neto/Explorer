@@ -3,8 +3,8 @@ import {
   buttonPause,
   buttonStop,
   buttonSet,
-  buttonSoundOff,
-  buttonSoundOn,
+  soundButtonOff,
+  soundButtonOn,
 } from "./elements.js"
 
 export default function ({ controls, sound, timer }) {
@@ -38,15 +38,15 @@ export default function ({ controls, sound, timer }) {
     sound.pressButton()
   })
 
-  buttonSoundOn.addEventListener("click", () => {
-    buttonSoundOn.classList.add("hide")
-    buttonSoundOff.classList.remove("hide")
+  soundButtonOn.addEventListener("click", () => {
+    soundButtonOn.classList.add("hide")
+    soundButtonOff.classList.remove("hide")
     sound.bgAudio.pause()
   })
 
-  buttonSoundOff.addEventListener("click", () => {
-    buttonSoundOn.classList.remove("hide")
-    buttonSoundOff.classList.add("hide")
+  soundButtonOff.addEventListener("click", () => {
+    soundButtonOn.classList.remove("hide")
+    soundButtonOff.classList.add("hide")
     sound.bgAudio.play()
   })
 }

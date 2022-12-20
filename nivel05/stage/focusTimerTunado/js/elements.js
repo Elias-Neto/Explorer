@@ -51,8 +51,8 @@ const fireplaceInputVolume = document.querySelector(
   "main .soundButtons .wrapper.fireplace input"
 )
 
-const buttonSoundOn = document.querySelector("footer .sound-on")
-const buttonSoundOff = document.querySelector("footer .sound-off")
+const soundButtonOn = document.querySelector("footer .sound-on")
+const soundButtonOff = document.querySelector("footer .sound-off")
 
 export {
   body,
@@ -78,6 +78,6 @@ export {
   rainInputVolume,
   coffeShopInputVolume,
   fireplaceInputVolume,
-  buttonSoundOn,
-  buttonSoundOff,
+  soundButtonOn,
+  soundButtonOff,
 }

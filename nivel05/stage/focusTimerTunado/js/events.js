@@ -18,8 +18,8 @@ export default function ({
   rainInputVolume,
   coffeShopInputVolume,
   fireplaceInputVolume,
-  buttonSoundOff,
-  buttonSoundOn,
+  soundButtonOff,
+  soundButtonOn,
 }) {
   buttonLightTheme.addEventListener("click", () => {
     controls.changeTheme()
@@ -104,15 +104,15 @@ export default function ({
   coffeShopInputVolume.addEventListener("input", sound.setVolume)
   fireplaceInputVolume.addEventListener("input", sound.setVolume)
 
-  buttonSoundOn.addEventListener("click", () => {
-    buttonSoundOff.classList.toggle("hide")
-    buttonSoundOn.classList.toggle("hide")
+  soundButtonOn.addEventListener("click", () => {
+    soundButtonOff.classList.toggle("hide")
+    soundButtonOn.classList.toggle("hide")
     sound.muteVolumeOn()
   })
 
-  buttonSoundOff.addEventListener("click", () => {
-    buttonSoundOff.classList.toggle("hide")
-    buttonSoundOn.classList.toggle("hide")
+  soundButtonOff.addEventListener("click", () => {
+    soundButtonOff.classList.toggle("hide")
+    soundButtonOn.classList.toggle("hide")
     sound.muteVolumeOff()
   })
 }

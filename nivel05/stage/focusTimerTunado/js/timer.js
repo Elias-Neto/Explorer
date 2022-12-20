@@ -3,7 +3,6 @@ export default function Timer({
   secondsDisplay,
   resetControls,
   sound,
-  controls,
 }) {
   let timerTimeOut
   let minutes = Number(minutesDisplay.textContent)
@@ -33,14 +32,13 @@ export default function Timer({
 
       if (isFinished) {
         resetControls()
-        updateDisplay()
-        sound.bgAudio.pause()
+        updateDisplay(minutes, 0)
         sound.timeEnd()
         return
       }
 
       if (seconds <= 0) {
-        seconds = 60
+        seconds = 2
         --minutesOfCount
       }
 
@@ -56,13 +54,13 @@ export default function Timer({
 
   function add() {
     minutes += 5
-    controls.reset()
+    resetControls()
     reset()
   }
 
   function decrease() {
-    minutes -= 5
-    controls.reset()
+    minutes >= 5 ? (minutes -= 5) : (minutes = 0)
+    resetControls()
     reset()
   }
 
