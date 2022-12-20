@@ -1,4 +1,3 @@
-
 <h1 id="topico1"> 💻 O que é programação? </h1>
 
 Programação é o ato de **programar**. Mas...
@@ -61,8 +60,8 @@ e lógicas.</p>
 <br>
 <br>
 
-<p align="center"> Desenvolvido com 💜 por Elias de Araújo Ferreira Neto 👋 <p>
+<p align="center"> Desenvolvido com ❤ por Elias de Araújo Ferreira Neto 👋 <p>
 
 <br>
 
-<a href="./stage01.md">Voltar</a>
+<a href="./README.md">Voltar</a>

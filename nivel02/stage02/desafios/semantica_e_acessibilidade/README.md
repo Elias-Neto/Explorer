@@ -8,7 +8,6 @@
     <a href="https://github.com/Elias-Neto/Explorer/tree/main/nivel02/stage02/desafios/semantica_e_acessibilidade/depois"> Veja o código depois</a>
 </div>
 
-
 <br>
 
 <h2> 💻 Projeto </h2>
@@ -20,11 +19,11 @@ a semântica correta. Reafatorei o código aplicando conceitos de acessibilidade
 
 <h2> 📥 Conhecimento adquirido </h2>
 
-* Trabalhar com elementos semânticos no HTML (nav, main, section, button, footer, ul, li...).
-* Reorganizar uma estrutura HTML bagunçada;
-* Refatoração de código;
-* Interpretação de layouts no Figma;
-* Código Limpo.
+- Trabalhar com elementos semânticos no HTML (nav, main, section, button, footer, ul, li...).
+- Reorganizar uma estrutura HTML bagunçada;
+- Refatoração de código;
+- Interpretação de layouts no Figma;
+- Código Limpo.
 
 <br>
 <br>
@@ -40,7 +39,7 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
 <br>
 <br>
 
-<p align="center"> Desenvolvido com 💜 por Elias de Araújo Ferreira Neto 👋 <p>
+<p align="center"> Desenvolvido com ❤ por Elias de Araújo Ferreira Neto 👋 <p>
 
 <br>
 

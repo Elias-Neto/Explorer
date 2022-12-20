@@ -2,11 +2,9 @@
 
 <img src="./demonstracao.gif">
 
-
 <div align="center">
     <a style="font-size: 18px" href="https://elias-neto.github.io/Explorer/nivel03/stage03/projeto02" target="_blank"> Veja o Site</a>
 </div>
-
 
 <br>
 
@@ -19,11 +17,11 @@ Este projeto consiste em uma landing page **responsiva** para divulgação de um
 
 <h2> 📥 Conhecimento adquirido </h2>
 
-* O que é responsividade;
-* O que é mobile-first e porquê usar?;
-* Trabalhar com unidades de medida flexíveis/relativas;
-* Trabalahar com max-width e min-width;
-* O que é e como trabalhar com at-rule @media;
+- O que é responsividade;
+- O que é mobile-first e porquê usar?;
+- Trabalhar com unidades de medida flexíveis/relativas;
+- Trabalahar com max-width e min-width;
+- O que é e como trabalhar com at-rule @media;
 
 <br>
 <br>
@@ -39,7 +37,7 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
 <br>
 <br>
 
-<p align="center"> Desenvolvido com 💜 por Elias de Araújo Ferreira Neto 👋 <p>
+<p align="center"> Desenvolvido com ❤ por Elias de Araújo Ferreira Neto 👋 <p>
 
 <br>
 

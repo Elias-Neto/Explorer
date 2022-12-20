@@ -2,7 +2,6 @@
 
 <img src="./demonstracao.gif">
 
-
 <div align="center">
     <a style="font-size: 18px" href="https://elias-neto.github.io/Explorer/nivel03/stage03/desafios/space_cream" target="_blank"> Veja o Site</a>
 </div>
@@ -18,16 +17,16 @@ Este projeto consiste em uma landing page responsiva para a Space Cream, uma sor
 
 <h2> 📥 Conhecimento adquirido </h2>
 
-* Estratégia Mobile-First;
-* Unidades de Medida Relativas;
-* Breakpoints utilizando @media no CSS;
-* Variáveis no CSS;
-* Animaçãos no CSS;
-* Transições e Transformações no CSS;
-* Grid-Layout;
-* Filtros em imagens no CSS;
-* Interpretação de Layout no Figma;
-* HTML Semântico;
+- Estratégia Mobile-First;
+- Unidades de Medida Relativas;
+- Breakpoints utilizando @media no CSS;
+- Variáveis no CSS;
+- Animaçãos no CSS;
+- Transições e Transformações no CSS;
+- Grid-Layout;
+- Filtros em imagens no CSS;
+- Interpretação de Layout no Figma;
+- HTML Semântico;
 
 <br>
 <br>
@@ -43,7 +42,7 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
 <br>
 <br>
 
-<p align="center"> Desenvolvido com 💜 por Elias de Araújo Ferreira Neto 👋 <p>
+<p align="center"> Desenvolvido com ❤ por Elias de Araújo Ferreira Neto 👋 <p>
 
 <br>
 

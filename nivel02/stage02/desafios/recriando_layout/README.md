@@ -6,7 +6,6 @@
     <a style="font-size: 18px" href="https://elias-neto.github.io/Explorer/nivel02/stage02/desafios/recriando_layout" target="_blank"> Veja o Site</a>
 </div>
 
-
 <br>
 
 <h2> 💻 Desafio </h2>
@@ -16,15 +15,15 @@ Neste desafio, eu recriei uma aplicação a partir de um layout do figma. Essa a
 
 <h2> 📥 Conhecimento adquirido </h2>
 
-* Acessibilidade por meio de elementos semânticos e a descrição de imagens no HTML;
-* Flexbox;
-* Box-model;
-* Fontes estilizadas;
-* Formato de cores (Hexadecimal e HSL);
-* Link que abre em outra aba (atributo target="_blank");
-* Efeito ao passar o mouse em cima (pseudo-classe :hover).
-* Fixar um elemento na tela;
-* Organização do código com comentários.
+- Acessibilidade por meio de elementos semânticos e a descrição de imagens no HTML;
+- Flexbox;
+- Box-model;
+- Fontes estilizadas;
+- Formato de cores (Hexadecimal e HSL);
+- Link que abre em outra aba (atributo target="\_blank");
+- Efeito ao passar o mouse em cima (pseudo-classe :hover).
+- Fixar um elemento na tela;
+- Organização do código com comentários.
 
 <br>
 <br>
@@ -40,7 +39,7 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
 <br>
 <br>
 
-<p align="center"> Desenvolvido com 💜 por Elias de Araújo Ferreira Neto 👋 <p>
+<p align="center"> Desenvolvido com ❤ por Elias de Araújo Ferreira Neto 👋 <p>
 
 <br>
 

@@ -4,7 +4,7 @@
 
 **Pergunte-se:** Onde estou e onde quero chegar?
 
-*Se a gente não sabe pra onde vai, qualquer caminho serve.*
+_Se a gente não sabe pra onde vai, qualquer caminho serve._
 
 <br>
 
@@ -12,18 +12,19 @@
 
 A sensação de estar progredindo em direção aos objetivos, nos deixam mais realizados e felizes.
 
-
 <br><br>
 
 **Existem objetivos de curto, médio e longo prazo**
-  - Você poderá pensar em objetivos de 1, 6, 12 meses ou 1,3, e 5 anos.
-  - Se pensar em longo prazo, procure quebrar em menores, para ficar mais fácil de verificar o progresso.
+
+- Você poderá pensar em objetivos de 1, 6, 12 meses ou 1,3, e 5 anos.
+- Se pensar em longo prazo, procure quebrar em menores, para ficar mais fácil de verificar o progresso.
 
 <br>
 
 **Os pilares da vida**
-  - Financeira, familiar, profissional …
-  - Defina objetivos para cada esfera que fizer sentido pra você.
+
+- Financeira, familiar, profissional …
+- Defina objetivos para cada esfera que fizer sentido pra você.
 
 <br><br>
 
@@ -31,7 +32,7 @@ A sensação de estar progredindo em direção aos objetivos, nos deixam mais re
 
 <br>
 
-É um método que ajuda bastante para traçar metas e objetivos. 
+É um método que ajuda bastante para traçar metas e objetivos.
 
 <br>
 
@@ -68,6 +69,11 @@ Ao traçar metas e/ou objetivos, eles precisam ser:
 <div style="background-color: hsla(0, 0%, 80%, 0.1); padding: 15px;">
   <strong>💡 &nbsp "Metas precisam estar dentro de realidade."</strong>
 </div>
+
+<br>
+<br>
+
+<p align="center"> Desenvolvido com ❤ por Elias de Araújo Ferreira Neto 👋 <p>
 
 <br>
 

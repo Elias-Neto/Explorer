@@ -295,5 +295,10 @@ console.log(3 > 2 == 1)
 ```
 
 <br>
+<br>
+
+<p align="center"> Desenvolvido com ❤ por Elias de Araújo Ferreira Neto 👋 <p>
+
+<br>
 
 <a href="../README.md">Voltar</a>

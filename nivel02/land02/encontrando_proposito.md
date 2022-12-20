@@ -1,4 +1,4 @@
-# 🎯 Encontrando Propósito 
+# 🎯 Encontrando Propósito
 
 <br>
 
@@ -49,9 +49,14 @@ Geralmente o propósito está em contribuir com algo maior que você, está envo
 <br>
 
 - Acontece com a maioria das pessoas, porque…
-    - Terceirizam suas escolhas
-    - Não percebem a importância de ter um propósito
+  - Terceirizam suas escolhas
+  - Não percebem a importância de ter um propósito
 - Você poderá despertar pra isso...
+
+<br>
+<br>
+
+<p align="center"> Desenvolvido com ❤ por Elias de Araújo Ferreira Neto 👋 <p>
 
 <br>
 

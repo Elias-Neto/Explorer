@@ -89,5 +89,10 @@ console.log("> existe y depois do bloco? ", y)
   - Escrever em inglês
 
 <br>
+<br>
+
+<p align="center"> Desenvolvido com ❤ por Elias de Araújo Ferreira Neto 👋 <p>
+
+<br>
 
 <a href="../README.md">Voltar</a>

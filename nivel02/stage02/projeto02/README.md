@@ -6,7 +6,6 @@
     <a style="font-size: 18px" href="https://elias-neto.github.io/Explorer/nivel02/stage02/projeto02/" target="_blank"> Veja o Site</a>
 </div>
 
-
 <br>
 
 <h2> 💻 Projeto </h2>
@@ -18,17 +17,17 @@ Este projeto consiste em uma landing page bem simples, para um negócio de perso
 
 <h2> 📥 Conhecimento adquirido </h2>
 
-* Trabalhar com tags semânticas;
-* Enteder os conceitos do Box Model;
-* Trabalhar com a ferramente DevTools;
-* Trabalhar com conceitos do Flexbox;
-* O que é e qual a importância da Acessibilidade;
-* O que é e qual a importância da Refatoração;
-* Trabalhar com a personalização de fontes e cores;
-* Entender a diferença entre margin e padding;
-* Estilização de botões;
-* Trabalhar com a função linear-gradient();
-* Trabalhar com a Pseudo-classe :hover.
+- Trabalhar com tags semânticas;
+- Enteder os conceitos do Box Model;
+- Trabalhar com a ferramente DevTools;
+- Trabalhar com conceitos do Flexbox;
+- O que é e qual a importância da Acessibilidade;
+- O que é e qual a importância da Refatoração;
+- Trabalhar com a personalização de fontes e cores;
+- Entender a diferença entre margin e padding;
+- Estilização de botões;
+- Trabalhar com a função linear-gradient();
+- Trabalhar com a Pseudo-classe :hover.
 
 <br>
 <br>
@@ -44,7 +43,7 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
 <br>
 <br>
 
-<p align="center"> Desenvolvido com 💜 por Elias de Araújo Ferreira Neto 👋 <p>
+<p align="center"> Desenvolvido com ❤ por Elias de Araújo Ferreira Neto 👋 <p>
 
 <br>
 

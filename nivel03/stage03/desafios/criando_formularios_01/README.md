@@ -2,7 +2,6 @@
 
 <img src="./demonstracao.gif">
 
-
 <div align="center">
     <a style="font-size: 18px" href="https://elias-neto.github.io/Explorer/nivel03/stage03/desafios/criando_formularios_01" target="_blank"> Veja o Site</a>
 </div>
@@ -18,11 +17,11 @@ Este projeto consiste em uma landing page com um **formulário** para a agendame
 
 <h2> 📥 Conhecimento adquirido </h2>
 
-* Criação e funcionamento de formulários em HTML;
-* Estilização de formulários com CSS;
-* Tipos de inputs;
-* Estilização de inputs com CSS;
-* Como validar campos e submeter formulários. 
+- Criação e funcionamento de formulários em HTML;
+- Estilização de formulários com CSS;
+- Tipos de inputs;
+- Estilização de inputs com CSS;
+- Como validar campos e submeter formulários.
 
 <br>
 <br>
@@ -38,7 +37,7 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
 <br>
 <br>
 
-<p align="center"> Desenvolvido com 💜 por Elias de Araújo Ferreira Neto 👋 <p>
+<p align="center"> Desenvolvido com ❤ por Elias de Araújo Ferreira Neto 👋 <p>
 
 <br>
 

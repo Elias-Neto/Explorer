@@ -2,11 +2,9 @@
 
 <img src="./demonstracao.gif">
 
-
 <div align="center">
     <a style="font-size: 18px" href="https://elias-neto.github.io/Explorer/nivel03/stage03/projeto01" target="_blank"> Veja o Site</a>
 </div>
-
 
 <br>
 
@@ -19,17 +17,17 @@ Este projeto consiste em uma landing page com um **formulário** para a criaçã
 
 <h2> 📥 Conhecimento adquirido </h2>
 
-* Criação e funcionamento de formulários em HTML (form [atributos action e method], fieldset, legend, label, input, textarea, select, button);
-* Tipos de inputs (text, password, number, checkbox, date, time, email);
-* O que é o seletor universal "*" e qual sua importância;
-* Como funciona a propriedade CSS z-index;
-* Como funciona a propriedade box-sizing;
-* O que são e para que servem vendor prefixes (-moz, -webkit, -ms);
-* Como aplicar SVG direto no CSS;
-* Como estilizar um campo select;
-* Pseudo Elements e Pseudo Classes no CSS - o que são, como usar e quais diferenças;
-* Como estilizar um capo checkbox;
-* Como validar campos e submeter formulários. 
+- Criação e funcionamento de formulários em HTML (form [atributos action e method], fieldset, legend, label, input, textarea, select, button);
+- Tipos de inputs (text, password, number, checkbox, date, time, email);
+- O que é o seletor universal "\*" e qual sua importância;
+- Como funciona a propriedade CSS z-index;
+- Como funciona a propriedade box-sizing;
+- O que são e para que servem vendor prefixes (-moz, -webkit, -ms);
+- Como aplicar SVG direto no CSS;
+- Como estilizar um campo select;
+- Pseudo Elements e Pseudo Classes no CSS - o que são, como usar e quais diferenças;
+- Como estilizar um capo checkbox;
+- Como validar campos e submeter formulários.
 
 <br>
 <br>
@@ -45,7 +43,7 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
 <br>
 <br>
 
-<p align="center"> Desenvolvido com 💜 por Elias de Araújo Ferreira Neto 👋 <p>
+<p align="center"> Desenvolvido com ❤ por Elias de Araújo Ferreira Neto 👋 <p>
 
 <br>
 
