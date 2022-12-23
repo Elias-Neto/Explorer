@@ -74,7 +74,7 @@ O explorer é um programa da Rocketseat focado no **Desenvolvimento Web Full Sta
 
 > Criação de Linkedin - Perfil Campeão - Busca por vagas - Dicas
 
-- Stage - JavaScript antes do framework
+- 🔄 [Stage - JavaScript antes do framework](./nivel06/stage/)
 
 > POO (Programação Orientada a Objetos) - Conceitos de SPA - Assincronismo - Promisses - Polimorfismo - Imutabilidade - Consumo de APIs externas
 
