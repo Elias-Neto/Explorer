@@ -70,9 +70,9 @@ O explorer é um programa da Rocketseat focado no **Desenvolvimento Web Full Sta
 
 ## 📌 Nível 06
 
-- Land 06 - Marca pessoal
+- ✅ [Land 06 - Marca pessoal no LinkedIn](./nivel06/land/)
 
-> Criação de LinkedIn - Criação de Github - Documentando progresso (Github e LinkedIn)
+> Criação de Linkedin - Perfil Campeão - Busca por vagas - Dicas
 
 - Stage - JavaScript antes do framework
 
