@@ -82,7 +82,7 @@ O explorer é um programa da Rocketseat focado no **Desenvolvimento Web Full Sta
 
 ## 📌 Nível 07
 
-- [Land - Encontrando soluções](./nivel07/land/)
+- ✅ [Land - Encontrando soluções](./nivel07/land/)
 
 > Fórum - Como pesquisar? - Como identificar erros? - Fontes de pesquisa
 
