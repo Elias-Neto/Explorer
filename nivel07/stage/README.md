@@ -1,4 +1,4 @@
-# Git e Github
+# 🐙 Git e Github
 
 GitHub é uma plataforma para armazenarmos nossos projetos e o Git é o software que utilizamos para gerenciar nosso código.
 
@@ -143,3 +143,12 @@ A sigla WIP é muito vista em commits para indicar que aquela ação ainda não 
 
 - 👉 https://www.atlassian.com/br/git/tutorials/comparing-workflows/gitflow-workflow
 - 👉 https://danielkummer.github.io/git-flow-cheatsheet/index.pt_BR.html
+
+<br>
+<br>
+
+<p align="center"> Desenvolvido com ❤ por Elias de Araújo Ferreira Neto 👋 <p>
+
+<br>
+
+<a href="../../README.md">Voltar</a>
