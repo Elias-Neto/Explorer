@@ -24,7 +24,7 @@ Não é obrigatório, mas é uma prática de bons profissionais escrever o códi
 
 Com essa extensão do VS Code, você terá uma correção em tempo real dos termos em inglês diretamente no editor. É uma ótima forma de ter mais segurança ao escrever seu código em inglês.
 
-👉 (Clique aqui pra baixar)[https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker]
+👉 [Clique aqui pra baixar](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker)
 
 ## 🌎 LinkedIn em Inglês
 
