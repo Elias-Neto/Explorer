@@ -86,7 +86,7 @@ O explorer é um programa da Rocketseat focado no **Desenvolvimento Web Full Sta
 
 > Fórum - Como pesquisar? - Como identificar erros? - Fontes de pesquisa
 
-- Stage - Git & GitHub
+- ✅ [Stage - Git & GitHub](./nivel07/stage/)
 
 > Controle de versão - Fundamentos do Git & GitHub
 
