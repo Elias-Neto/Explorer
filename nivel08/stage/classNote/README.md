@@ -315,3 +315,12 @@ E também utilizamos o npm para executar scripts e bibliotecas já instaladas.
 ## ⭐ Node Package Execute (NPX)
 
 É um executador de pacotes npm que pode executar qualquer pacote que disponível no registro npm sem sequer instalar esse pacote.
+
+<br>
+<br>
+
+<p align="center"> Desenvolvido com ❤ por Elias de Araújo Ferreira Neto 👋 <p>
+
+<br>
+
+<a href="../README.md">Voltar</a>

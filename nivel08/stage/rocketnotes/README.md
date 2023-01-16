@@ -36,8 +36,6 @@ Além disso, a aplicação está conectada com um banco de dados, deixando as co
 - Query Builder: knex.js;
 - Consultas simples e Complexas no DB;
 
-👉 [Clique aqui para ver minhas anotações.](../classNote/)
-
 ## 🛠 Tecnologias usadas
 
 - [JavaScript](https://developer.mozilla.org/en-US/docs/Learn/JavaScript)
