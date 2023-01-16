@@ -58,7 +58,7 @@ OBS: você pode importar o arquivo insomnia.json dentro do insomnia para já ter
 
 ```bash
 # Clone este repositório
-$ git clone https://github.com/Elias-Neto/Explorer/nivel08/stage/rocketnotes
+$ git clone https://github.com/Elias-Neto/Explorer/tree/main/nivel08/stage/rocketnotes
 
 # Acesse a pasta do projeto no terminal/cmd
 $ cd rocketnotes
