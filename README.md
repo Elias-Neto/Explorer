@@ -94,11 +94,11 @@ O explorer é um programa da Rocketseat focado no **Desenvolvimento Web Full Sta
 
 ## 📌 Nível 08
 
-- [Land - Inglês](./nivel08/land/)
+- ✅ [Land - Inglês](./nivel08/land/)
 
 > Perfil LinkedIn em inglês - README em inglês - Código em inglês
 
-- Stage - Back-end
+- ✅ [Stage - Back-end](./nivel08/stage/)
 
 > Fundamentos do back-end - Node.js - NPM (Gerenciador de pacotes) - Insomnia - Knex.js - Express - Banco de dados (SQL, SQLite)
 
