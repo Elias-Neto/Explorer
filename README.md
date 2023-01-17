@@ -106,7 +106,7 @@ O explorer é um programa da Rocketseat focado no **Desenvolvimento Web Full Sta
 
 ## 📌 Nível 09
 
-- Land - Projetos pessoais
+- ✅ [Land - Projetos pessoais](./nivel09/land/)
 
 > Inspiração de ideias - Resolução de problemas - MVP - Design Thinking
 
