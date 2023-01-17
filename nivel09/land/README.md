@@ -2,7 +2,7 @@
 
 > Inspiração de ideias - Resolução de problemas - MVP - Design Thinking
 
-## 💡 Inspiração de ideias
+## 💭 Inspiração de ideias
 
 ### Inspiração por demanda
 
@@ -110,3 +110,12 @@ A técnica do Design Thinking também leva essa nome pois os processos convergê
 - Ideação -> Experimentação = Processo de Pluralização/Divergência de ideias, escopo aberto.
 
 - Experimentação em diante = Processo de Singularização/Convergência de ideias, escopo fechado.
+
+<br>
+<br>
+
+<p align="center"> Desenvolvido com ❤ por Elias de Araújo Ferreira Neto 👋 <p>
+
+<br>
+
+<a href="../../README.md">Voltar</a>
