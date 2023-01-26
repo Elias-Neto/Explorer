@@ -110,7 +110,7 @@ O explorer é um programa da Rocketseat focado no **Desenvolvimento Web Full Sta
 
 > Inspiração de ideias - Resolução de problemas - MVP - Design Thinking
 
-- Stage - Front-end
+- ✅ [Stage - Front-end](./nivel09/stage/)
 
 > Bibliotecas e frameworks - React - Transpilers & Bundlers - Vite - CSS in JS (Styled Components) - React Router
 
