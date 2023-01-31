@@ -118,7 +118,7 @@ O explorer é um programa da Rocketseat focado no **Desenvolvimento Web Full Sta
 
 ## 📌 Nível 10
 
-- Land - Emprego
+- ✅ [Land - Emprego](./nivel10/land/)
 
 > Júnior, Pleno e Sênior - Aplicando para a primeira vaga - Como se portar em entrevistas - Encontrando oportunidades - Hack de entrevistas
 
