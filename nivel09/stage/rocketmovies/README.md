@@ -8,7 +8,7 @@
 
 Front-end de uma aplicação de criação de notas sobre filmes, o RocketMovies.
 
-No RocketNotes você poderá criar sua conta e desfrutar de um ambiente para você registrar suas anotações sobre filmes.
+No RocketMovies você poderá criar sua conta e desfrutar de um ambiente para você registrar suas anotações sobre filmes.
 
 Você registrar o filme (com título e descrição) e atribuir uma nota para ele.
 

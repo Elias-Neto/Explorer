@@ -241,3 +241,12 @@ Para **re-renderizações**, o React aplicará as operações mínimas necessár
 Qualquer atualização de tela numa aplicação React acontece em três etapas: Acionar, Renderizar e Comprometer-se.
 
 O React não toca na DOM se o resultado da renderização for o mesmo da última vez.
+
+<br>
+<br>
+
+<p align="center"> Desenvolvido com ❤ por Elias de Araújo Ferreira Neto 👋 <p>
+
+<br>
+
+<a href="../README.md">Voltar</a>
