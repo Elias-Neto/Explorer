@@ -38,6 +38,7 @@ Além disso, a aplicação está conectada com um banco de dados, deixando as co
 
 ## 🛠 Tecnologias usadas
 
+- [NodeJS](https://nodejs.org/en/)
 - [JavaScript](https://developer.mozilla.org/en-US/docs/Learn/JavaScript)
 - [Express](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs)
 - [Knex.js](https://knexjs.org/)
@@ -66,11 +67,11 @@ $ cd rocketnotes
 # Instale as dependências
 $ npm install
 
-# Execute a aplicação em modo de desenvolvimento
-$ npm run dev
-
 # Execute as migrations
 $ npm run migrate
+
+# Execute a aplicação em modo de desenvolvimento
+$ npm run dev
 ```
 
 <br>

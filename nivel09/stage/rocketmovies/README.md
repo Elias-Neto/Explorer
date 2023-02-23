@@ -25,27 +25,44 @@ A aplicação é composta por as seguintes telas:
 
 ## 📥 Conhecimento adquirido
 
-- O que é o ReactJS;
-- O que é e como trabalhar com o ViteJS;
+- O que é o ReactJS e como trabalhar com ele;
+- Componentes e propriedades;
+- O que é o ViteJS e como trabalhar com ele;
 - Arquitetura de pastas e arquivos;
-- Fragment;
 - CSS in-JS (Styled Components);
-- `thema` e `globalStyle`;
-- Componentes e Propriedades;
-- React Icons;
-- React Router Dom;
 
 ## 🛠 Tecnologias usadas
 
 - [ReactJS](https://pt-br.reactjs.org/)
 - [Styled Components](https://styled-components.com/)
-- [React Icons](https://react-icons.github.io/react-icons/)
-- [React Router Dom](https://reactrouter.com/en/main)
 - [ViteJS](https://vitejs.dev/)
 - [JavaScript](https://developer.mozilla.org/en-US/docs/Learn/JavaScript)
 - [HTML](https://developer.mozilla.org/pt-BR/docs/Learn/HTML)
 - [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 - [Figma](https://www.figma.com)
+
+## ▶ Rodando a Aplicação
+
+### Pré-requisitos
+
+Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
+[Git](https://git-scm.com), [Node.js](https://nodejs.org/en/).
+
+Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/).
+
+```bash
+# Clone este repositório
+$ git clone https://github.com/Elias-Neto/Explorer/tree/main/nivel08/stage/rocketmovies
+
+# Acesse a pasta do projeto no terminal/cmd
+$ cd rocketmovies
+
+# Instale as dependências
+$ npm install
+
+# Execute a aplicação em modo de desenvolvimento
+$ npm run dev
+```
 
 <br>
 <br>
