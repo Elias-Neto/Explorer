@@ -122,7 +122,7 @@ O explorer é um programa da Rocketseat focado no **Desenvolvimento Web Full Sta
 
 > Júnior, Pleno e Sênior - Aplicando para a primeira vaga - Como se portar em entrevistas - Encontrando oportunidades - Hack de entrevistas
 
-- ✅ [Stage 10 - API RESTful](./nivel10/stage/)
+- ✅ [Stage - API RESTful](./nivel10/stage/)
 
 > Integração front-end e back-end - Consumo de API - Autenticação - Validações - Middlewares - Upload de imagens
 
