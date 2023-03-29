@@ -1,4 +1,4 @@
-# 🔗 Stage 10 - API Restful
+# 🚀 Stage 10 - API Restful
 
 > Integração front-end e back-end - Consumo de API - Autenticação - Validações - Middlewares - Upload de imagens
 
