@@ -1,5 +1,5 @@
-[submodule "rocketnotes-backend"]
-	path = rocketnotes-backend
+[submodule "nivel08/stage/rocketnotes-backend"]
+	path = nivel08/stage/rocketnotes-backend
 	url = https://github.com/Elias-Neto/rocketnotes-backend
 [submodule "nivel08/stage/rocketmovies-backend"]
 	path = nivel08/stage/rocketmovies-backend
