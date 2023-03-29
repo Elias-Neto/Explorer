@@ -1,6 +1,0 @@
-[submodule "rocketnotes"]
-	path = rocketnotes
-	url = https://github.com/Elias-Neto/rocketnotes-backend
-[submodule "rocketnotes"]
-	path = rocketmovies
-	url = https://github.com/Elias-Neto/rocketmovies-backend
