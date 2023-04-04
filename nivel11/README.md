@@ -1,6 +1,6 @@
 # 🚀 Stage 11
 
-> > PM2 - Heroku - Netlify - Jest
+> PM2 - Heroku - Netlify - Jest
 
 - [📝 RocketNotes](https://github.com/Elias-Neto/rocketnotes)
 
@@ -10,4 +10,4 @@
 
 <br>
 
-[Voltar](../../README.md)
+[Voltar](../README.md)

@@ -131,3 +131,12 @@ Com o intuito de desacoplar essas coisas:
 Seguindo essa arquitetura, você desacopla a lógica da infraestrutura invertendo as dependências.
 
 OBS: inverter as dependências é simplesmente deixar de depender explicitamente e começar a **abstrair** as coisas.
+
+<br>
+<br>
+
+<p align="center"> Desenvolvido com ❤ por Elias de Araújo Ferreira Neto 👋 <p>
+
+<br>
+
+<a href="../README.md">Voltar</a>
