@@ -2,9 +2,9 @@
 
 > Integração front-end e back-end - Consumo de API - Autenticação - Validações - Middlewares - Upload de imagens
 
-- [📝 RocketNotes](./rocketnotes/)
+- [📝 RocketNotes](https://github.com/Elias-Neto/rocketnotes)
 
-- [📽 RocketMovies](./rocketmovies/)
+- [📽 RocketMovies](https://github.com/Elias-Neto/rocketmovies)
 
 - [✍ Class Notes](./classNote/)
 

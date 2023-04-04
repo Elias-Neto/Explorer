@@ -2,7 +2,7 @@
 
 > PM2 - Heroku - Netlify - Jest
 
-## O que é Deploy?
+## ☁ O que é Deploy?
 
 Deploy ou deployment significa implantar.
 
@@ -20,7 +20,7 @@ Normalmente, trabalha-se com 3 ambientes:
 - Ambiente de Staging ou Teste
 - Ambiente de Produção
 
-## Dados Sensíveis
+### Dados Sensíveis
 
 São dados que, em mãos erradas, podem gerar grandes problemas:
 
@@ -58,11 +58,11 @@ Caso utilize o github basta adicionar ao `.gitignore` o arquivo `.env` para ele 
 
 Outra boa prática, crie um arquivo de exemplo (`.env.example`) com as chaves que seu projeto está utilizando, sem os valores, sensíveis assim quem clonar seu repositório ou ter acesso ao código fonte não ficará perdido.
 
-## PM2
+### PM2
 
 PM2 é um gerenciador de processos que irá ajudar a gerenciar e manter a aplicação online 24h por dia, 7 dias por semana.
 
-## Testes
+## ⚙ Testes
 
 Testes permitem identificar erros durante o desenvolvimento e assegurar a qualidade e o funcionamento correto da aplicação.
 
@@ -78,25 +78,25 @@ Existem várias estratégias de testes, das bem comuns são:
 
 - **Teste de integração** - testa as unidades do código trabalhando juntas. (ex: testa login que envolve um série de etapas).
 
-## Boas Práticas
+### Boas Práticas
 
-### Simples e Rápido
+#### Simples e Rápido
 
 Testes simples e rápidos nos possibilitam ter um feedback o mais cedo possível sobre possíveis impactos das modificações feitas no software.
 
 Além disso, facilitam para podermos rodar-los várias vezes se necessário e tornam mais ágil o debug, reduzindo o tempo necessário para criar e manter os scripts.
 
-### Independentes
+#### Independentes
 
 Testes devem ser independentes entre si. Isso evita que a falha de um cause a falha de outros, o que dificultaria a investigação de problemas.
 
 O "você do futuro" vai agradecer muito ao "você do presente" por isso.
 
-### Ambiente
+#### Ambiente
 
 Testes não devem depender de ambientes ou recursos externos (como API'S, DB'S, etc). Os testes devem ser capazes de serem executados a qualquer momento e quantas vezes forem necessárias.
 
-## Princípio da inversão de dependência
+## 🤯 Princípio da inversão de dependência
 
 O objetivo desse princípio é desacoplar e diminuir a dependência entre regra de negócio e infraestrutura.
 
