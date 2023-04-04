@@ -16,3 +16,9 @@
 [submodule "nivel10/stage/rocketmovies"]
 	path = nivel10/stage/rocketmovies
 	url = https://github.com/Elias-Neto/rocketmovies
+[submodule "nivel11/rocketmovies"]
+	path = nivel11/rocketmovies
+	url = https://github.com/Elias-Neto/rocketmovies
+[submodule "nivel11/rocketnotes"]
+	path = nivel11/rocketnotes
+	url = https://github.com/Elias-Neto/rocketnotes
